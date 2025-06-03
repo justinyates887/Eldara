@@ -15,7 +15,7 @@ Akrath is depicted as a towering, gaunt figure cloaked in smoldering black and c
 
 Akrath’s followers are warlords, cultists, exiles, and those consumed by vengeance. They do not seek creation but embrace destruction as divine will. Entire cults roam the wastelands, their skin marked with burn-sigil scars, preaching that desolation is purity—that only by burning the old can the truth of Akrath be seen.
 
-His clergy are known as **Ashbearers**, feared and reviled wherever they tread. They offer blessings of fire not to heal, but to cauterize; not to comfort, but to cleanse. Many are former priests of other faiths who turned to Akrath in despair or fury.
+His clergy are known as **[[Ashbearers]]**, feared and reviled wherever they tread. They offer blessings of fire not to heal, but to cauterize; not to comfort, but to cleanse. Many are former priests of other faiths who turned to Akrath in despair or fury.
 
 ---
 
@@ -38,6 +38,6 @@ Akrath’s symbol is a **cracked obsidian mask wreathed in flame**, representing
 
 ### **Additional Details**
 
-**The Flamebound**, Akrath’s most devout, are those who have survived great fire and returned changed. Their skin is often scarred, their minds consumed with a singular purpose: to destroy what weakens the world. Some become fire-wielders, using corrupted magic to immolate cities. Others become silent shadows, razing sacred places in Akrath’s name.
+**[[The Flamebound]]**, Akrath’s most devout, are those who have survived great fire and returned changed. Their skin is often scarred, their minds consumed with a singular purpose: to destroy what weakens the world. Some become fire-wielders, using corrupted magic to immolate cities. Others become silent shadows, razing sacred places in Akrath’s name.
 
 Akrath teaches that ruin is not cruelty, it is clarity. What stands must fall. What grows must burn. Only when all is ash can something pure rise again.

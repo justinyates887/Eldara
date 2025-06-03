@@ -10,7 +10,7 @@ Only certain individuals are able to interact with the Weave. The ability to acc
 
 ### [[Sorcerers]]
 
-Sorcerers are born with a connection to the Weave, often due to lineage tied to the Aevari, particularly Pyrael, Valora, or Galeon. Their magic is innate, flowing from their blood and spirit. Sorcerers are seen as both blessed and dangerous: vessels of raw, uncontrolled divine energy. Their power is potent but prone to volatility.
+Sorcerers are born with a connection to the Weave, often due to lineage tied to the Aevari, particularly [[Pyrael, Aevari of Fire]], [[Valora, Aevari of Water]], or [[Galeon, Aevari of Air]]. Their magic is innate, flowing from their blood and spirit. Sorcerers are seen as both blessed and dangerous: vessels of raw, uncontrolled divine energy. Their power is potent but prone to volatility.
 
 ### [[Wizards]]
 
@@ -18,7 +18,7 @@ Wizards cannot rely on birthright. Instead, they dedicate their lives to studyin
 
 ### [[Druids]]
 
-Druids attune themselves to the echoes of the Aevari within nature. Most commune with Feron's presence through stone, root, and wind. They see the Weave as a living spirit that runs strongest through untouched places. Their spells are drawn from the balance of the world, and to misuse magic is to risk harming the very essence of life itself. Feron and his children are known to bless those who protect and cherish his domain, regardless of birthright. 
+Druids attune themselves to the echoes of the Aevari within nature. Most commune with [[Feron, Aevari of the Earth]]'s presence through stone, root, and wind. They see the Weave as a living spirit that runs strongest through untouched places. Their spells are drawn from the balance of the world, and to misuse magic is to risk harming the very essence of life itself. Feron and his children are known to bless those who protect and cherish his domain, regardless of birthright. 
 
 ### [[Warlocks]]
 
