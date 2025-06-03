@@ -1,0 +1,3 @@
+Ethyri of darkness, envy, and hate. Fueled by ambition, corruption, and control. Once a powerful ally of Almariel, his lover, the envy and malcontent for the creative nature of his partner drove him to hate. He’s venerated by darker forces who seek power, and feared by those who dread his influence on the world.
+
+**Vorthar’s Creations** – The beings of shadow and malice, from goblins and orcs to dark forests and cursed lands. His creatures would bear his ambition and corruption, existing as blights on the creations of the Aevari.

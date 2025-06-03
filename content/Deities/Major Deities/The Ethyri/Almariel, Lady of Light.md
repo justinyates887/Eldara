@@ -1,0 +1,1 @@
+Ethyri of light, wisdom, and healing, Almariel is a beloved figure who inspires virtue and kindness. She often represents redemption and growth, and she’s widely worshiped as a protector of the innocent.
