@@ -24,6 +24,16 @@ Druids attune themselves to the echoes of the Aevari within nature. Most commune
 
 Warlocks do not draw directly from the Weave. Instead, they bargain with beings who have claimed dominion over fragments of the Weave: the Alorama, ancient spirits, or even demons. In exchange for servitude, belief, or action, these patrons allow warlocks to channel power. Warlocks are distrusted, often seen as vessels of corruption or puppets of ill intent.
 
+### [[Monk]]
+
+The monks of Eldara emerged shortly after **[[1. The Great Exodus]]**, when a small group of humans chose to remain on **[[Aelarion (Pre-fracture)]]** to study **[[The Ythraewyn]]**. These contemplatives devoted themselves to understanding the fundamental nature of their existence—their life force, their connection to **[[The Aetheric Weave (Magic)]]**, and the divine balance that had shaped their creation.
+
+Through years of disciplined meditation and careful study, the early monks gradually learned to perceive the vital energies flowing within themselves. Eventually, the most accomplished among them achieved a breakthrough: they successfully bridged their own life force directly to the Weave itself, creating a unique form of magic that supplemented traditional arcane abilities with the finite but renewable power of their own spiritual essence.
+
+As word of these techniques spread, numerous monasteries were established across the kingdoms, each specializing in different applications of this life-force magic. The practice soon attracted members of other races who were drawn to this profound understanding of the connection between mortal existence and cosmic forces.
+
+Because of humans' inherent nature as children of balance—carrying both light and shadow within their very essence—monks developed an intuitive understanding of the eternal struggle between opposing forces. This insight made them uniquely capable of sensing corruption, maintaining spiritual equilibrium, and detecting the subtle influences of both **[[The Alorama]]** and **[[The Nyx]]** upon the world around them.
+
 *see [[Special RP Mechanics]]*
 ## On Magic and the World
 

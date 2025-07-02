@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Eldara"
+title: Welcome to Eldara
 ---
 
 # Welcome to Eldara
