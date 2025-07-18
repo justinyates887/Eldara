@@ -10,12 +10,12 @@ Paladins in Eldara are among the few mortals who receive direct divine favor thr
 
 **Common Oaths and Deities:**
 
-- **Oath of Devotion** to **[[Belron, Defender of the Just]]** - Classic champions of justice, courage, and honor
-- **Oath of the Ancients** to **[[Belron, Defender of the Just]]** -  Emphasizes the principles of good above any concerns of law or chaos.
-- **Oath of Vengeance** to **[[Belron, Defender of the Just]]** - Pursuing justice against great evils and protecting the innocent
-- **Oath of Redemption** to **[[Ithara, Healer of Sorrows]]** - Healing spiritual wounds and redeeming the fallen
-- **Oath of the Crown** to **[[Seliana, Guardian of Hearth]]** - Protecting civilization, community, and lawful order
-- **Oath of the Watchers** to **[[Belron, Defender of the Just]]** - Defending the Material Plane from extraplanar threats
+- **[[Oath of Devotion]]** to **[[Belron, Defender of the Just]]** - Classic champions of justice, courage, and honor
+- **[[Oath of the Ancients]]** to **[[Belron, Defender of the Just]]** -  Emphasizes the principles of good above any concerns of law or chaos.
+- **[[Oath of Vengeance]]** to **[[Belron, Defender of the Just]]** - Pursuing justice against great evils and protecting the innocent
+- **[[Oath of Redemption]]** to **[[Ithara, Healer of Sorrows]]** - Healing spiritual wounds and redeeming the fallen
+- **[[Oath of the Crown]]** to **[[Seliana, Guardian of Hearth]]**,  [[Belron, Defender of the Just]], or a particular ruler/kingdom - Protecting civilization, community, and lawful order
+- **[[Oath of the Watchers]]** to **[[Belron, Defender of the Just]]** - Defending the Material Plane from extraplanar threats
 
 **Practices:** Serve as divine warriors, temple guardians, champions of the oppressed, and leaders of righteous crusades.
 
@@ -27,8 +27,8 @@ Paladins in Eldara are among the few mortals who receive direct divine favor thr
 
 **Common Oaths and Deities:**
 
-- **Oath of Conquest** to **[[Goroth, Lord of Bloodlust]]** - Dominating through superior force and reveling in battle
-- **Oath of Vengeance** to [[Zoroth, the Hollow Prince]] himself - Embodies the resilience of the forces of darkness to the influence of light. 
+- **[[Oath of Conquest]]** to **[[Goroth, Lord of Bloodlust]]** - Dominating through superior force and reveling in battle
+- **[[Oath of Vengeance]]** to [[Zoroth, the Hollow Prince]] himself - Embodies the resilience of the forces of darkness to the influence of light. 
 - **Oathbreaker** - Fallen paladins who serve various **Nyx** deities after abandoning their original sacred vows. Paladins who have broken their oath can no longer be championed by the Alorama. Those who wish to retain their connection to the weave are offered a chance to swear fealty to the Nyx in order to keep their connection.
 
 **Practices:** Serve as dark champions, cult leaders, agents of corruption, and generals of evil armies.
@@ -41,8 +41,9 @@ Paladins in Eldara are among the few mortals who receive direct divine favor thr
 
 **Common Oaths and Deities:**
 
-- **Oath of Glory** to [[Goroth, Lord of Bloodlust]] - Pursuing legendary achievements through superior martial prowess and the glory of combat
-- **Oath of the Crown** to [[Seliana, Guardian of Hearth]] - Loyalty to established authority and protection of communities and enforcing the order of the homeland.
+- **[[Oath of Glory]]** to [[Goroth, Lord of Bloodlust]], [[Belron, Defender of the Just]] - Pursuing legendary achievements through superior martial prowess and the glory of combat
+- **[[Oath of the Crown]]** to [[Seliana, Guardian of Hearth]] - Loyalty to established authority and protection of communities and enforcing the order of the homeland.
+- **[[Oath of the Open Sea]]** to [[Valora, Aevari of Water]] (indirectly) or to [[Threndil, God of the Hunt]]- Take refuge in the natural beauty of the sea. Embrace ever an changing nature that is reminiscent of the sea that shapes every aspect of their lives.
 
 **Practices:** Serve as royal champions, guardians, enforcers of natural law, and protectors of  balance.
 

@@ -53,10 +53,15 @@ Monks in Eldara are unique among all practitioners of magic, as they are the onl
 
 Various **monastic orders** have developed across Eldara, each specializing in different applications of life force magic:
 
-- **[[Order of the Flowing Stream]]** - Focus on healing and restoration
-- **[[Disciples of the Iron Will]]** - Master combat applications and physical enhancement
-- **[[Contemplatives of the Eternal Moment]]** - Dedicate themselves to meditation, divination, and spiritual insight
+- **[[Way of the Flowing Stream]]** (See Way of Mercy)  - Focus on healing and restoration
+- **[[Way of the Iron Will]]** (See Way of the Open Hand) - Master combat applications and physical enhancement
+- **[[Way of the Eternal Moment]]** (See way of the Astral Self) - Dedicate themselves to meditation, divination, and spiritual insight
 - **[[Keepers of the Inner Flame]]** - The original order that remained on Aelarion
+- **[[Way of the Four Elements]]** - Draw power from the fundamental forces of the world
+- **[[Way of The Light]]** (See Way of the Sun Soul) - Ki-fueled abilities calling on the sun's power
+- **[[Way of the Drake]]** (See Way of the Ascendant Dragon)
+- **[[Way of Steel ]]** (See Way of Kensei)
+- **[[Way of Shadow]]** 
 
 ---
 

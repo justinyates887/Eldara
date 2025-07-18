@@ -12,7 +12,7 @@ _The Fall of the Radiant Bridge_
 
 ## The Victory That Became Defeat
 
-At the climax of the Age of Chaos, when the forces of light and unity stood against the overwhelming tide of [[Zoroth, the Hollow Prince]]'s corruption, it was **[[Ysalyn the Fair]]** who led the final, desperate assault upon the fortress of **[[Kzar'ak]]** at the base of[[ Mount Zalrath]]. The great army she commanded—an unprecedented alliance of elves, humans, and all the united races who had answered her call—pressed forward in what would become known as (TODO: Battle name).
+At the climax of the Age of Chaos, when the forces of light and unity stood against the overwhelming tide of [[Zoroth, the Hollow Prince]]'s corruption, it was **[[Ysalyn The Fair]]** who led the final, desperate assault upon the fortress of **[[Kzar'ak]]** at the base of[[ Mount Zalrath]]. The great army she commanded—an unprecedented alliance of elves, humans, and all the united races who had answered her call—pressed forward in what would become known as (TODO: Battle name).
 
 In the shadow of that accursed mountain, Ysalyn's radiant form blazed like a star against the darkness, her connection to the aetheric weave burning brighter than ever as she channeled every ounce of her power to break through Zoroth's defenses. The fortress walls, wreathed in shadow and corruption, cracked under the assault of unified purpose she had spent lifetimes building.
 

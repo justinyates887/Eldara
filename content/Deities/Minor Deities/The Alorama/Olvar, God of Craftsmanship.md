@@ -13,7 +13,7 @@ Olvar is depicted as a sturdy figure with hands of polished bronze and eyes that
 ---
 
 **Followers**  
-Olvar’s devoted followers, comprising blacksmiths, sculptors, artisans, [[dwarf]]s, and builders who find inspiration in her mastery. They form guilds and workshops that often serve as places of worship, where her guidance is sought in both prayer and practice. These guilds also serve as educational centers, passing down the skills and traditions of craftsmanship to new generations, ensuring that the art of creation continues to thrive.
+Olvar’s devoted followers, comprising blacksmiths, sculptors, artisans, [[Dwarf]]s, and builders who find inspiration in her mastery. They form guilds and workshops that often serve as places of worship, where her guidance is sought in both prayer and practice. These guilds also serve as educational centers, passing down the skills and traditions of craftsmanship to new generations, ensuring that the art of creation continues to thrive.
 
 Her followers believe that craftsmanship is not just labor but a sacred act of creation, and through their work, they honor Olvar’s teachings. Her temples are typically forges and workshops filled with the sounds of hammers striking anvils, the scent of hot metal, and the warm glow of the forge fires.
 
