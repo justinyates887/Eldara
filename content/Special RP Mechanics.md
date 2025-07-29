@@ -20,4 +20,5 @@ Insight checks will be handled by the DM
 | Goliath    | All but wizard    |
 | Elemental  | All               |
 | Changeling | All               |
+
 **Overcasting:** When a magic wielder is out of spell slots, they may attempt to cast a spell, and take a level of exhaustion for each level of spell, at a minimum of 2 levels of exhaustion. When a player reaches 6 levels of exhaustion in this way, their very life force dissipates, and they die, unable to be revived by any means (Their life force no longer exists in the Aetheric Weave).
