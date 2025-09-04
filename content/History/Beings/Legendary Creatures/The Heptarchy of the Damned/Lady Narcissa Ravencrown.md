@@ -1,0 +1,1 @@
+A stunning sorceress who believes herself superior to all others. Narcissa corrupts through flattery and false elevation, convincing rulers they are divine and above counsel. She feeds their egos until they become tyrants, isolated by their own arrogance and unable to see threats or make wise decisions.

@@ -1,8 +1,3 @@
-Pre-writing Notes:
-- Typical human/ag society
-- Barter, trade, and capitalist
-- Kingdom of horses
-- Monarchy
 ## Table of Contents
 
 1. [Government Structure](#government-structure)
@@ -21,28 +16,15 @@ Pre-writing Notes:
 
 **What is the basic form of government in this country?**
 
-_Answer:_  Constitutional monarchy
+_Answer:_  
 
 **What services does the government or head-of-state provide?**
 
-Villages have a strong autonomy, and pay very little in the form of taxes towards Lenthir. Thus, the only services that Lenthir will typically provide are 
-- Marriage and property deed registration with kingdom-wide recognition
-- Census taking for military and administrative purposes
-- A small standing military, consisting mainly of cavalry
-- Diplomatic relations and treaty negotiation with neighboring kingdoms
-- Postal or messenger services connecting distant towns
-- Disaster relief coordination (floods, droughts, famines)
-- Disease outbreak response and quarantine management
-- Major water management projects (dams, large-scale irrigation)
-- Maintenance of the [[Graymarch]]
-- Maintaining contracts with magical enforcers, in the event of illegal use of  [[The Aetheric Weave (Magic)]]
-- A stockpile of rations in the event of a disaster or famine.
+_Answer:_
 
 **Are schools, wells, courts, and the army paid for by taxes?**
 
-Most wells and courts are enforced on the village level. There is a higher court in Lenthir proper to deal with larger crimes and disputes.
-
-Local watches are funded by the village, though Lenthir does maintain a small standing army.
+_Answer:_
 
 **What local or private services are provided by the government?**
 
@@ -54,27 +36,27 @@ _Answer:_
 
 **What do people owe their government?**
 
-Villages pay taxes in the form of crop or other various needs / precious metals in the form of a very small (fraction of a percent) annuity. The percentage is based on the villages own tax collection, and has never been the cause of scrutiny for local villages.
+_Answer:_
 
 **Do people pay their government in taxes, in labour, in crops, in military service?**
 
-Taxes are accepted in any form of the above. Additionally, each village is required to keep a census of able bodies men and women, should a conscription ever be necessary.
+_Answer:_
 
 **Who has the right to levy taxes?**
 
-_Answer:_ The Royal family, and the elected officials of each village within the fiefdom are in charge of imposing taxes on their populace at a reasonable level. Rarely have the rulers of Lenthir had to intervene in local taxation (for it being too high or low) due to the democratic socialist nature of the electoral process.
+_Answer:_
 
 **For what purposes are taxes (or new taxes) levied?**
 
-_Answer:_ Large projects, such as a new dam, or the hiring of druids to analyze and bless the harvest will typically come with a short-term, goal oriented tax hike. 
+_Answer:_
 
 **On what or on whom are taxes levied?**
 
-_Answer:_ Taxes are levied against all of the populace, with a top-down approach (the most wealthy individuals have the highest tax burden). The laborers on farms receive the highest tax incentives, some of whom pay no taxes at all, due to their critical role in society.
+_Answer:_
 
 **Can taxes be paid in-kind, or do certain things always require money?**
 
-_Answer:_ Most everything in Lenthir can be paid in kind. There are sometimes requirements for a percentage of taxes be precious metal when iron and steel production is low.
+_Answer:_
 
 **Who provides support services for the head of state and what are they called (examples: councilors, ministers, secretaries, viziers)?**
 
@@ -82,31 +64,31 @@ _Answer:_
 
 **Are offices hereditary, elected, or appointed?**
 
-_Answer:_ All offices other than the monarch are held via popular vote. It is a long standing tradition, held in the very values of the constitution of Lenthir brought forth by the first kings, that the ruling monarch have no influence in his cabinetry elections.
+_Answer:_
 
 **Can a government office be a career choice?**
 
-_Answer:_ Yes. Government positions are open to most. 
+_Answer:_
 
 **Is the relative power of a country or ruler usually measured by the size of the army, the number and ability of the wizards, or the amount of money and trade flowing through it?**
 
-_Answer:_ Lenthir's power comes from its trade dominance (agricultural meca of Eldara, most food will come from here), as well as its cavalry. 
+_Answer:_
 
 **Who will take over running the government if the current head-of-state is incapacitated?**
 
-_Answer:_ The heir to the throne, if they exist and are ready. Otherwise, the cabinet will have joint responsibility in managing affairs in interim. Should the immediate bloodline be broken, a relative will inherit the responsibility. 
+_Answer:_
 
 **How is succession determined?**
 
-_Answer:_ Heritage and immediate bloodline.
+_Answer:_
 
 **Is there an heir apparent (either actual or political)?**
 
-_Answer:_ The eldest son or daughter typically inherits the throne. There have been cases, however, when the role is refused, to which it falls to the next eldest.
+_Answer:_
 
 **What happens if the heir is a child?**
 
-_Answer:_ Monarchs are disallowed by the constitution to rule before military age (18). The largest responsibility of the monarch is to General the army, and thus proper experience and strength are required.
+_Answer:_
 
 **Who is responsible for protecting the head-of-state?**
 
@@ -122,7 +104,7 @@ _Answer:_
 
 **How are the people with the power to give orders chosen?**
 
-_Answer:_ Election
+_Answer:_
 
 **Are any activities licensed or certified (driving, dog ownership, being an attorney or a physician)?**
 
@@ -866,3 +848,4 @@ _Answer:_
 
 ---
 
+_This nation-level guide focuses on the political, legal, economic, and military structures that define countries and kingdoms within your fantasy world. Use these answers to create distinct national identities and governance systems._

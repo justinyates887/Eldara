@@ -1,0 +1,1 @@
+A captivating enchantress who specializes in romantic manipulation. Scarlett doesn't seduce directly. Instead, she orchestrates affairs, unrequited loves, and romantic obsessions among the nobility. She destroys alliances through broken hearts and turns political marriages into scandalous betrayals.

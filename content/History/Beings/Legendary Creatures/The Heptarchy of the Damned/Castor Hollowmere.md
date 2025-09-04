@@ -1,0 +1,1 @@
+A corpulent nobleman with an insatiable appetite for all forms of excess. Castor appears as a jovial host who encourages indulgence in food, drink, and pleasure, but his true power lies in creating dependency. He corrupts through abundance, turning allies into addicts of luxury and comfort until they become weak, complacent, and easily controlled.

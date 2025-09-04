@@ -1,0 +1,1 @@
+A soft-spoken scholar who promotes "careful consideration" and "thorough planning." Lysander's true talent is paralyzing action through endless deliberation. He convinces leaders to postpone crucial decisions until opportunities are lost and crises become catastrophes through inaction.

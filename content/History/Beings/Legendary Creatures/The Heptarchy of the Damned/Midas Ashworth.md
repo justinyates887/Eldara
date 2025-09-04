@@ -1,0 +1,1 @@
+A charming merchant-lord who always has a profitable solution. Midas corrupts through opportunity, showing rulers how to squeeze more wealth from their lands and people. He turns leaders into hoarders who prioritize gold over subjects' welfare, ultimately destabilizing their realms through exploitation.
