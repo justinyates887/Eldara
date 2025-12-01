@@ -3,7 +3,7 @@
 **_Origin_: Liralor, the Feywild**  
 **_Race_: Elf**
 
-![[Pasted image 20250416163946.png]]
+![[1970_s_dark_fantasy_paperback_ (9) 1.jpeg]]
 
 ### **Description**
 
