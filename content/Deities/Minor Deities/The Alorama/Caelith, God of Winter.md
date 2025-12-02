@@ -1,7 +1,7 @@
 **Domains**: Cold, Preservation  
 **Created By**: Almariel and Valora
 
-![[Pasted image 20250416160631.png]]
+![](https://i.imgur.com/bDkrTF6.png)
 
 **Appearance**: Caelith is depicted as a tall, stoic figure with an ethereal, icy presence, draped in robes that seem woven from snow and frost. His eyes glow a pale, glacial blue, reflecting the harsh, unyielding beauty of winter. His crown is adorned with ice crystals and frosted evergreen branches.
 
@@ -11,6 +11,6 @@
 
 **Sigils**: Caelith’s symbol is a stylized snowflake with an evergreen wreath encircling it, representing both the cold and the endurance of life through winter.
 
-![[Pasted image 20250416160816.png]]
+![](https://i.imgur.com/26MBvsP.png)
 
 **Offerings**: Offerings to Caelith include preserved foods, evergreen sprigs, and silver or pale blue candles, symbolizing the cold, yet life-sustaining light of winter.

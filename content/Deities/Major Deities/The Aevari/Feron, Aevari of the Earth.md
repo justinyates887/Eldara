@@ -4,4 +4,4 @@ Known as the **Stone Father**, Feron embodies strength, endurance, and the deep 
 
 **Feron’s Creations** – All beings of the earth, from dwarves and giants to beasts of the land, trees, and plants rooted in the soil. 
 
-![[Pasted image 20250415132025.png]]![[Pasted image 20250415132132.png]]
+![Feron](https://i.imgur.com/Bia6X1N.png)

@@ -3,7 +3,7 @@ _Domains_: Death, Endings
 _Creators_: Almariel and Valora  
 _Pantheon_: Alorama
 
-![[Pasted image 20250417095942.png]]
+![](https://i.imgur.com/BSPuJuk.png)
 
 **Description** 
 **Thanriel**, the God of Passage, is the solemn guardian of life’s final threshold, guiding souls not with mystery but with quiet strength and unwavering calm. Thanriel embodies _certainty_: he walks with those whose stories have already ended.
@@ -37,7 +37,7 @@ Thanriel’s temples are tranquil places of reflection, where the cycle of life 
 **Sigils and Symbols**  
 Thanriel’s symbol is a a circular medallion of bone and silver, etched with the phases of the moon representing the transition of the soul from the world of the living to the afterlife. His followers wear this sigil as a pendant or embroider it onto their robes during ceremonies. It is also etched into gravestones and memorials, marking them as places watched over by Thanriel.
 
-![[Pasted image 20250417100137.png]]
+![](https://i.imgur.com/wIW2v82.png)
 
 ---
 

@@ -1,4 +1,4 @@
 Called the **Whispering Gale**, Galeon embodies freedom, knowledge, and the constant movement of change. Revered by scholars, travelers, and those who value freedom, Galeon is known for a calm, wise demeanor but is capable of great wrath in the form of storms. He’s depicted with flowing robes of clouds and eyes of piercing, shifting winds.
 
 **Galeon’s Creations** – All winged creatures, beasts of the air, and intelligent races that value knowledge and freedom, including elves and sages. Galeon’s touch would infuse them with curiosity, adaptability, and a sense of movement or change.
-![[Pasted image 20250415132448.png]]![[Pasted image 20250415132550.png]]
+![Galeon](https://i.imgur.com/3ajifrz.png)

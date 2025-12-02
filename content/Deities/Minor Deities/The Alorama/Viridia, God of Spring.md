@@ -3,7 +3,7 @@ _Domains_: Rebirth, New Beginnings
 _Creators_: Almariel, Valora, Pyrael  
 _Pantheon_: Alorama
 
-![[Pasted image 20250417124743.png]]
+![](https://i.imgur.com/m3x24Gk.png)
 
 **Description**  
 **Viridia**, the God of Spring, embodies renewal, rebirth, and the joy that accompanies new beginnings. Created by [[Almariel, Lady of Light]]’s nurturing light, [[Valora, Aevari of Water]]’s life-giving waters, and [[Pyrael, Aevari of Fire]]’s spark of warmth, Viridia represents the convergence of elements that heralds the changing of seasons and the awakening of the world from winter’s hold. Known as **The Blooming Dawn**, Viridia is celebrated as the bringer of new life, the vibrant deity who breathes freshness into the world.
@@ -33,7 +33,7 @@ Temples dedicated to Viridia are often found in gardens, groves, or meadows, whe
 **Sigils and Symbols**  
 Viridia’s symbol is a **blooming flower encircled by radiant sunrays**, representing the renewal of life and the energy of new beginnings. Her followers often wear this sigil as a pendant, carve it onto garden stones, or weave it into floral wreaths to invoke her blessing. It is also used to decorate doorways and windows during springtime, symbolizing the hope and joy that Viridia’s presence brings.
 
-![[Pasted image 20250417125017.png]]
+![](https://i.imgur.com/M2o06qz.png)
 
 ---
 

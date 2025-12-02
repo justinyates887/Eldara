@@ -1,3 +1,4 @@
+#Campaign/NPC
 **Finn and Fron Graybough - The Protective Brothers**
 
 **Finn** (the elder): A stocky farmer-turned-warrior with calloused hands and genuine kindness in his eyes. Speaks softly but carries a well-maintained war hammer. Protective but reasonable—will try to de-escalate before fighting.

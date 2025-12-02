@@ -3,7 +3,7 @@ _Domains_: Wisdom, Intellectual Pursuits
 _Creators_: Almariel and Galeon  
 _Pantheon_: Alorama
 
-![[Pasted image 20250416173000.png]]
+![](https://i.imgur.com/JzaTSfV.png)
 ---
 
 **Description**  
@@ -32,7 +32,7 @@ Miralin is depicted as an ethereal figure with eyes that seem to hold the depths
 **Sigils and Symbols**  
 Miralin’s symbol is an **open book with a radiant star above it**, representing the pursuit of knowledge and the enlightenment that comes from learning. His followers wear this sigil as a pendant, or inscribe it on the doors of schools and libraries to invoke his blessing. The symbol is also carved into the cornerstones of academies, symbolizing the foundation of all learning.
 
-![[Pasted image 20250416173109.png]]
+![](https://i.imgur.com/oUEQLEj.png)
 
 ---
 

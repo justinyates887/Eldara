@@ -1,7 +1,9 @@
+#Spoilers
 **_Era_: The Age of Repose  
 _Origin_: Liralor, the Feywild**  
 **_Race_: Elf**
-![[1970_s_dark_fantasy_paperback_ (7).jpeg]]
+
+![](https://i.imgur.com/nS11JK8.jpeg)
 
 # The Story of Ysalyn the Fell
 

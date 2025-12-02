@@ -3,7 +3,7 @@ _Domains_: Music, Unity
 _Creators_: Almariel and Galeon  
 _Pantheon_: Alorama
 
-![[Pasted image 20250416161025.png]]
+![](https://i.imgur.com/ucB9n4W.png)
 
 ---
 
@@ -33,7 +33,7 @@ Elariel's followers include bards, musicians, and those who value unity and cele
 **Sigils and Symbols**  
 Elariel’s symbol is a **harp intertwined with a laurel branch**, representing the healing and unifying power of music. The harp’s strings appear as rays of light, symbolizing the connection between all things. Followers often wear pendants engraved with this sigil, or carry small charms adorned with the symbol, especially before performances or important gatherings, to ensure harmony.
 
-![[Pasted image 20250416161126.png]]
+![](https://i.imgur.com/LleOHgD.png)
 
 ---
 

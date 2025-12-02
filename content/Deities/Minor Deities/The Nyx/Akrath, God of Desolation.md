@@ -2,7 +2,8 @@
 **_Domains_: Burning Ruin**  
 **_Creators_: Vorthar and Zoroth**  
 **_Pantheon_: The Nyx** 
-![[Pasted image 20250516105812.png]]
+
+![](https://i.imgur.com/naQdmGq.png)
 ### **Description**
 
 **Akrath**, the God of Desolation, is the dread embodiment of devastation, flame, and the withering aftermath of ruin. Borne of the unholy union between [[Vorthar, the Dark Weaver]] and [[Zoroth, the Hollow Prince]], Akrath is not a god of fire’s brilliance, but of its aftermath—the ash, the hollowed plains, the blackened stone that once held life. He is known as **The Scorched Warden**, a cruel and relentless presence who walks in the wake of war, famine, and flame.
@@ -33,7 +34,8 @@ His clergy are known as **[[Ashbearers]]**, feared and reviled wherever they tre
 ### **Sigils and Symbols**
 
 Akrath’s symbol is a **cracked obsidian mask wreathed in flame**, representing the silent face of destruction and the fire that devours identity. His sigil is etched into volcanic rock, tattooed with burned ink into flesh, or carved into scorched altar stones. It is a mark feared in all lands—when found, it signals that nothing will be left standing.
-![[Pasted image 20250516105947.png]]
+
+![](https://i.imgur.com/OLdCSCc.png)
 ---
 
 ### **Additional Details**

@@ -3,7 +3,7 @@ _Domains_: Health, Recovery
 _Creators_: Almariel and Valora  
 _Pantheon_: Alorama
 
-![[Pasted image 20250416172655.png]]
+![](https://i.imgur.com/PwwGL2Z.png)
 ---
 
 **Description**  
@@ -32,7 +32,7 @@ Ithara is depicted as a graceful figure clothed in robes of soft blue and green,
 **Sigils and Symbols**  
 Ithara’s symbol is a **blooming lotus intertwined with a flowing river**, representing the dual aspects of health and emotional recovery. Her followers often wear this sigil as an amulet or paint it on the doors of homes where the ill reside, inviting Ithara’s presence into the household. The symbol is also inscribed upon the entrances of her temples, marking them as places of refuge and healing.
 
-![[Pasted image 20250416172748.png]]
+![](https://i.imgur.com/urduTlP.png)
 
 ---
 

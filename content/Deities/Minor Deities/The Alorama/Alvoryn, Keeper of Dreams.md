@@ -3,7 +3,7 @@ _Aspect_: Prophecy, Visions
 _Pantheon_: Alorama
 _Created by_: Almariel and Galeon
 
-![[Pasted image 20250416155039.png]]
+![](https://i.imgur.com/YoqbLQg.png)
 
 ---
 
@@ -35,7 +35,7 @@ The Veiled Seers are not only respected for their connection to Alvoryn but are 
 ### Sigils and Symbols
 
 Alvoryn’s sigil is a crescent moon entwined with delicate, spiraling vines that represent the ever-twisting threads of fate and dreams. Her followers often tattoo this sigil upon their hands or wrists, or wear it as a pendant over their hearts to signify their devotion. The symbol is also inscribed at the entrance of her temples to mark a sacred space for dreaming and prophecy.
-![[Pasted image 20250416155258.png]]
+![](https://i.imgur.com/u6zst7K.png)
 ---
 
 ### Offerings

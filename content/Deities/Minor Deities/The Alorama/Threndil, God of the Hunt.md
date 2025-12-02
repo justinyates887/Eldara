@@ -3,7 +3,7 @@ _Domains_: Nature's Balance
 _Creators_: Almariel and Feron  
 _Pantheon_: Alorama
 
-![[Pasted image 20250417124212.png]]
+![](https://i.imgur.com/9kpWZP0.png)
 
 **Description**  
 **Threndil**, the God of the Hunt, embodies the balance of nature, the harmony between predator and prey, and the respect for the cycle of life in the wild. Created by [[Almariel, Lady of Light]]’s wisdom and [[Feron, Aevari of the Earth]]’s affinity with the earth, Threndil is revered as the **Wild Keeper**, ensuring that all creatures live in balance, that no part of nature takes too much or too little. He teaches respect for the wilderness and the need to maintain harmony between civilization and the natural world.
@@ -33,7 +33,7 @@ Temples dedicated to Threndil are often open-air groves or small, unobtrusive sh
 **Sigils and Symbols**  
 Threndil’s symbol is a **bow crossed with an antler**, representing both the hunt and the guardianship of nature. His followers wear this sigil as a pendant or carve it onto their bows, arrows, or other tools of the hunt. It is also etched into the stones that mark the sacred groves dedicated to Threndil.
 
-![[Pasted image 20250417124308.png]]
+![](https://i.imgur.com/cMRpdvR.png)
 
 ---
 

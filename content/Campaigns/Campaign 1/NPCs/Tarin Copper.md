@@ -1,4 +1,7 @@
-![[Pasted image 20250914102022.png]]
+#Campaign/NPC
+
+![](https://i.imgur.com/w960aUy.png)
+
 **Physical Description:** Tarin is a robust woman in her mid-twenties with the kind of boundless energy that seems to light up any room she enters. Her auburn hair is usually pulled back in a practical braid adorned with small festival ribbons that customers have given her throughout the week. Freckles dust her sun-kissed face, and her green eyes sparkle with genuine warmth and barely contained laughter. Her hands, calloused from years of hauling ale barrels and washing mugs, move with practiced efficiency even when she's telling animated stories.
 
 She wears a well-fitted brown dress with rolled sleeves and a leather apron that's somehow managed to stay mostly clean despite the festival chaos. A collection of small trinkets—carved wooden tokens, pressed flowers, colorful beads—hang from her belt, gifts from grateful customers over the years.

@@ -1,3 +1,4 @@
+#Campaign/Location
 Encounter: [[Bandits x8]] [[Bandit Archer x4]] [[Bandit Captain x1]] [[Mage Apprentice x1]]
 
 **Location & Approach:** **Thornvale Glen** sits in a natural depression between two wooded hills, roughly three miles north of [[Greendale]]. Ancient standing stones—remnants of some forgotten civilization—dot the clearing, providing both cover and an ominous atmosphere. A small stream runs through the eastern edge of the glen, and old growth pines create a natural windbreak along the northern ridge.

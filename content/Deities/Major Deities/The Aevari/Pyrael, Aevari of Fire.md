@@ -4,5 +4,4 @@ The **Flame of Renewal** and harbinger of destruction and rebirth, Pyrael repres
 
 **Pyrael’s Creations** – Life touched by fire, passion, and change, including dragons, phoenixes, fiery spirits, and creatures with intense wills.
 
-![[Pasted image 20250415133042.png]]
-![[Pasted image 20250415132818.png]]
+![Pyrael](https://i.imgur.com/G8mD27N.png)

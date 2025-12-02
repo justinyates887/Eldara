@@ -1,3 +1,4 @@
+#Campaign/Location
 **The Forest Path:** Following the clues gathered from [[Greendale]], the party finds themselves on an ancient deer trail that winds through the dense northern forests toward **Thornvale Glen**. The path is barely visible, overgrown with brambles and fallen logs that haven't been cleared in years. Ancient oaks and pine trees tower overhead, their canopy so thick that even midday feels like twilight.
 
 **Signs of Disturbance (Survival DC 12):**

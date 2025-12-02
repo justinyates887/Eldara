@@ -3,7 +3,7 @@ _Domains_: Agriculture
 _Creators_: Almariel and Feron  
 _Pantheon_: Alorama
 
-![[Pasted image 20250417100417.png]]
+![](https://i.imgur.com/T9CdoBf.png)
 
 **Description**  
 **Therion**, the God of Harvest, embodies the abundance of the earth and the fruition of hard work and nurturing care. Created by [[Almariel, Lady of Light]]’s wisdom and nurturing light and [[Feron, Aevari of the Earth]]’s mastery over the earth, Therion is revered as the deity who ensures the success of crops, the fertility of the soil, and the prosperity of those who work the land. Known as **The Bountiful Guardian**, Therion’s presence brings hope and gratitude to farmers, orchard keepers, and all who depend on the earth's bounty for sustenance.
@@ -33,7 +33,7 @@ Therion’s teachings emphasize hard work, patience, and respect for the land. H
 **Sigils and Symbols**  
 Therion’s symbol is a **sheaf of wheat crossed by a sickle**, representing both the labor of the harvest and the abundance it yields. His followers often wear this sigil as a charm, or carve it into barn doors and farming tools to invoke his blessing. It is also used to mark the entrance to fields, symbolizing Therion’s watchful presence over the crops.
 
-![[Pasted image 20250416172317.png]]
+![](https://i.imgur.com/pSuhbHQ.png)
 
 ---
 

@@ -1,3 +1,4 @@
+#Campaign/Lore
 # The Festival of Therion: A Tale of Unexpected Heroism
 
 In the peaceful farming town of **[[Greendale]]**, the renowned **[[Festival of Therion]]** had just concluded, bringing together dwarves, elves, halflings, and humans in celebration of the harvest. But as the last merchants packed their stalls and visitors departed, an unlikely group of six strangers found themselves summoned to the guard barracks on urgent business.

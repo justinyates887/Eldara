@@ -1,9 +1,10 @@
+#Spoilers
 **_Title_: The Radiant Bridge**  
 **_Era_: The Age of Chaos**  
 **_Origin_: Liralor, the Feywild**  
 **_Race_: Elf**
 
-![[1970_s_dark_fantasy_paperback_ (9) 1.jpeg]]
+![](https://i.imgur.com/O18tVJF.jpeg)
 
 ### **Description**
 

@@ -1,1 +1,6 @@
-![[Pasted image 20250904150754.png]]
+```statblock
+creature: Knight
+```
+
+
+

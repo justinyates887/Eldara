@@ -3,7 +3,7 @@ _Domains_: Justice, Honor in Battle
 _Creators_: Almariel and Pyrael  
 _Pantheon_: Alorama
 
-![[Pasted image 20250416160419.png]]
+![](https://i.imgur.com/4Z7iDcf.png)
 
 **Description**  
 Belron, the Defender of the Just, stands as a paragon of honor and integrity in Eldara. Created by [[Almariel, Lady of Light]] and [[Pyrael, Aevari of Fire]], he embodies the fusion of wisdom and the fiery passion of righteousness. Belron is a towering figure, his silver armor etched with symbols of ancient law and oaths of protection. He wields a radiant shield, which bears his iconic symbol: a blazing sun split by a vertical line. His presence inspires courage in all who seek to uphold truth and defend the vulnerable.
@@ -20,4 +20,4 @@ Followers of Belron are drawn from those with a deep commitment to justice and h
 **Sigil**  
 Belron’s sigil, a blazing sun split by a vertical line, symbolizes the balance of justice and honor. The line represents the unwavering path of truth and order, while the sun signifies the illuminating power of justice and righteous wrath against darkness. His followers often wear this sigil on their armor, cloaks, or shields, invoking Belron’s protection.
 
-![[Pasted image 20250416160059.png]]
+![](https://i.imgur.com/RXlYdGs.png)

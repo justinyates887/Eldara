@@ -1,3 +1,4 @@
+#Campaign/Lore
 ## Introduction
 
 A brisk fall wind dances through the air. The sun hangs lower in the sky, as the sunder decent of the winter darkness creeps upon the shortening days. Golden rays dance across fields of wheat and corn, the sweet, nostalgic smell of decay and woodsmoke hangs in the air. The town of [[Greendale]], a quaint agricultural and travel through town located in the kingdom of Lenthir, realm of the horse lords, is hosting the renowned annual festival of Therion, celebrating the harvest.

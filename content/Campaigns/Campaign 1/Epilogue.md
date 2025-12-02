@@ -1,3 +1,4 @@
+#Campaign/Lore
 ## Epilogue: Dawn Over Greendale
 
 **The Return:** As the first rays of dawn break over [[Greendale]], the party returns along the forest path—battered, perhaps, but victorious. The contrast between their journey out and their return could not be more stark. Where once urgent whispers and fearful glances followed them through the market square, now relieved cheers and grateful smiles greet their arrival.

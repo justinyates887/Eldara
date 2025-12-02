@@ -2,5 +2,4 @@
 
 **Valora’s Creations** – All aquatic beings, rivers, lakes, and creatures tied to the tides, like merfolk and oceanic beasts.
 
-![[Pasted image 20250415133252.png]]
-![[Pasted image 20250415133423.png]]
+![Valora](https://i.imgur.com/3hJ1LXj.png)

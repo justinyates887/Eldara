@@ -2,7 +2,8 @@
 **_Domains_: Disharmony, Betrayal**  
 **_Creators_: Vorthar and Zoroth**  
 **_Pantheon_: The Nyx**
-![[Pasted image 20250516120006.png]]
+
+![](https://i.imgur.com/iQMeeS8.png)
 ### **Description**
 
 **Malikar**, the God of Discord, is the whisper in the council chamber, the smirk in the knife’s betrayal, and the voice that turns kin against kin. Born from the splintered intentions of [[Vorthar, the Dark Weaver]] and the cruel insight of [[Zoroth, the Hollow Prince]], Malikar is known as **The Shattered Voice**, a deity who thrives not in destruction, but in division—where order breaks and bonds fracture.
@@ -34,7 +35,7 @@ Some serve him knowingly, relishing the chaos they spread. Others believe they f
 
 Malikar’s symbol is a **mask split down the center**, with one half smiling and the other screaming, framed by broken chains. It represents the dual nature of betrayal and the beauty of chaos. His sigil is carved into shattered stone, painted in blood upon doors of treachery, or woven into false banners meant to incite war.
 
-![[Pasted image 20250516120208.png]]
+![](https://i.imgur.com/XDzIVp6.png)
 
 ---
 

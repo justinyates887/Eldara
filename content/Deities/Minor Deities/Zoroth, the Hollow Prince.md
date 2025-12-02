@@ -10,7 +10,7 @@ _Pantheon_: Minor God Created by Vorthar
 
 Zoroth is depicted as a gaunt figure, his form partially cloaked in shadow, as if he himself is made of darkness. His eyes burn with a dim, cold fire, reflecting the twisted joy he takes in the decay of hope. He wears dark, tattered robes that seem to move and writhe with an unnatural energy, and in his skeletal hands, he holds an ornate staff crowned with an obsidian shard. His very presence exudes an aura of dread, and wherever he treads, the world seems to grow colder.
 
-![[Pasted image 20250416092956.png]]
+![](https://i.imgur.com/60w6Spn.png)
 ---
 
 **Followers**  

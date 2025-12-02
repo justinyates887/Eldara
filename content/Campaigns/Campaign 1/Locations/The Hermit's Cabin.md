@@ -1,3 +1,4 @@
+#Campaign/Location
 ## The Hermit's Cabin
 
 **Location & Approach:** The cabin sits in a small clearing roughly a mile south of [[Greendale]], accessible only by a narrow deer path that winds through dense undergrowth. Ancient oak trees tower overhead, their thick canopy filtering the light into dappled patterns on the forest floor. The approach is deliberately obscured—[[Olymyster Oakleaf]] values his privacy and has spent years ensuring his home remains hidden from casual discovery.

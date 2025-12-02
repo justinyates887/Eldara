@@ -1,1 +1,4 @@
-![[Pasted image 20250904151115.png]]
+```statblock
+creature: Thug
+```
+

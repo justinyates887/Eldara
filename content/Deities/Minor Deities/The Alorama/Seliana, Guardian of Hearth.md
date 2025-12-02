@@ -3,7 +3,7 @@ _Domains_: Family, Community
 _Creators_: Almariel and Pyrael  
 _Pantheon_: Alorama
 
-![[Pasted image 20250416175302.png]]
+![](https://i.imgur.com/GsHJYlR.png)
 
 **Description**  
 **Seliana**, the Guardian of Hearth, embodies the warmth and security of family and the strength of community. Born from [[Almariel, Lady of Light]]’s nurturing light and [[Pyrael, Aevari of Fire]]’s vibrant flame, Seliana represents the sacred bond that holds families together and the unyielding spirit of communal care. Known as **The Flame of Home**, she is worshipped as the protector of households, the keeper of warmth, and the strength behind every thriving village.
@@ -33,7 +33,7 @@ Communities devoted to Seliana often feature her imagery in their homes and publ
 **Sigils and Symbols**  
 Seliana’s symbol is a **lantern framed by two outstretched hands**, representing the warmth and security of home and the protective embrace of community. Her followers wear this sigil as pendants or inscribe it above their hearths to invoke her blessing. It is also carved into the doorposts of homes and community halls, marking them as places of refuge and warmth.
 
-![[Pasted image 20250416175421.png]]
+![](https://i.imgur.com/92nfyq1.png)
 
 ---
 

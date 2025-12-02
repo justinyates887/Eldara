@@ -1,3 +1,4 @@
+#Campaign/NPC
 **Physical Description:** Olymyster appears ancient even by elven standards, though his true age remains a mystery he mumbles about in fragments. His once-golden hair has turned silver-white and grows wild, adorned with small twigs, leaves, and the occasional bewildered beetle. Deep green eyes that once held the wisdom of centuries now dart about with nervous energy, sometimes focusing intensely on invisible threats, other times staring through people as if they were made of morning mist. His gnarled hands, stained permanently green from decades of herbalism, gesture constantly as he speaks to companions only he can see.
 
 He wears layered robes of earth-toned cloth that have been patched so many times they resemble a quilt of forest colors. Mushrooms actually grow from the hem of his outer robe—whether by accident or design, none can say.

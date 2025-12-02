@@ -1,2 +1,7 @@
-![[Pasted image 20250904151025.png]]
 
+```statblock
+monster:scout
+```
+```statblock
+creature: Scout
+```

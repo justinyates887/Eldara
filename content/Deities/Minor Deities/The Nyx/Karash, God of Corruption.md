@@ -2,7 +2,8 @@
 **_Domains_: Dark Influence**  
 **_Creators_: Vorthar and Zoroth**  
 **_Pantheon_: The Nyx**
-![[Pasted image 20250516115045.png]]
+
+![](https://i.imgur.com/RUxF5t2.png)
 ### **Description**
 
 **Karash**, the God of Corruption, is the slow rot that seeps into hearts and thrones alike—the whispered lie, the poisoned trust, the temptation that coils around ambition and decays it from within. Spawned from the schemes of [[Vorthar, the Dark Weaver]] and the manipulative will of [[Zoroth, the Hollow Prince]], Karash is known as **The Tainted Tongue**, the master of subversion, deceit, and moral erosion.
@@ -34,7 +35,7 @@ Many of his followers do not even realize they serve him until it is too late, d
 
 Karash’s symbol is a **serpent coiled around a masked face**, representing hidden truth and venomous persuasion. It is etched into rings, embroidered into collars, and sometimes carved into teeth or under the tongue. It is rare to see openly—when it appears, it usually means someone's trust is already rotting.
 
-![[Pasted image 20250516115208.png]]
+![](https://i.imgur.com/Y0fHkwg.png)
 
 ---
 

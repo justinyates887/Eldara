@@ -1,3 +1,4 @@
+#Campaign/Location
 **The Building:** The Third Onion stands as one of Greendale's most prominent structures, a three-story timber and stone building that dominates the eastern edge of the market square. Its name comes from the peculiar architectural choice of three onion-shaped domes crowning the main structure—a design quirk from the original elven architect who built it decades ago. During festival time, colorful banners and garlands drape between the domes, creating a festive canopy that's visible from across town.
 
 The ground floor houses the main tavern hall—a spacious room with low, heavy beams overhead and a massive fieldstone hearth that could roast an entire pig. Festival week has packed every table, bench, and available floor space with a mixture of locals and visitors. The air thrums with conversation in multiple languages, punctuated by bursts of laughter and the occasional drinking song.

@@ -2,7 +2,8 @@
 **_Domains_: Blight, Drought**  
 **_Creators_: Vorthar and Zoroth**  
 **_Pantheon_: The Nyx**
-![[Pasted image 20250516111550.png]]
+
+![](https://i.imgur.com/roh2TGO.png)
 ### **Description**
 
 **Drezzar**, the God of Famine, is the creeping dread that withers harvests, drains rivers, and hollows out the bellies of all living things. Born of the cruel design of [[Vorthar, the Dark Weaver]] and the spiteful cunning of [[Zoroth, the Hollow Prince]], Drezzar is known as **The Hollow Maw**, the devourer who brings slow death through rot, thirst, and ruin.
@@ -34,7 +35,7 @@ In times of drought or poor harvest, Drezzar’s cults grow, offering dark barga
 
 Drezzar’s symbol is a **withered stalk bent beneath a hollow sun**, representing starvation and the absence of life-giving force. It is carved into parched earth, etched into ruined granaries, or worn as crude iron charms by the Witherbound. Farmers mark his sigil in secret to ward him away, while his priests mark it openly as a promise of coming blight.
 
-![[Pasted image 20250516111832.png]]
+![](https://i.imgur.com/x8sHCOt.png)
 
 ---
 

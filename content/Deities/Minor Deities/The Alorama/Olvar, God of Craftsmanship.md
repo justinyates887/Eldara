@@ -3,7 +3,7 @@ _Domains_: Artisanship, Metalwork
 _Creators_: Almariel and Feron  
 _Pantheon_: Alorama
 
-![[Pasted image 20250416174046.png]]
+![](https://i.imgur.com/BRR5Bmt.png)
 
 **Description**  
 **Olvar**, the God of Craftsmanship, is revered as the embodiment of artisanship, creativity, and mastery over metal and stone. Created from the union of [[Almariel, Lady of Light]]’s wisdom and [[Feron, Aevari of the Earth]]’s strength, Olvar represents the harmonious blend of artistry and raw power. She is known as **The Forge Master**, guiding artisans, blacksmiths, builders, and crafters across Eldara to create works that reflect the perfect balance of function and beauty. Olvar’s influence is said to lie in every finely forged blade, every intricately carved statue, and every stone laid with purpose and care.

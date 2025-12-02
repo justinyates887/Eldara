@@ -1,3 +1,4 @@
+#Campaign/Location
 **Approaching the Ruins:** High Watch sits atop a modest hill roughly two miles east of Greendale, accessible by a winding dirt path that's become overgrown with brambles and weeds. The ruins consist of what was once a small watchtower and adjacent guard house, built decades ago when bandit activity was more common in the region. Abandoned for nearly twenty years, nature has begun to reclaim the stone structures.
 
 As the party approaches, several unsettling details become apparent:

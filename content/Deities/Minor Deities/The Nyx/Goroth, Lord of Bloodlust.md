@@ -2,7 +2,8 @@
 **_Domains_: Brutality, Chaos**  
 **_Creators_: Vorthar and Zoroth**  
 **_Pantheon_: The Nyx**
-![[Pasted image 20250516112219.png]]
+
+![](https://i.imgur.com/bgUYGWA.png)
 ### **Description**
 
 **Goroth**, the Lord of Bloodlust, is the frenzied god of unrelenting violence, madness in battle, and the carnal hunger for destruction. Forged in the depths of wrath by [[Vorthar, the Dark Weaver]] and [[Zoroth, the Hollow Prince]], Goroth is not a warrior—he is slaughter made flesh. Known as **The Crimson Butcher**, he revels in chaos without cause, brutality without mercy, and victory bought with suffering.
@@ -34,7 +35,7 @@ The **Crimson Tide**, his most devoted war cult, roam the wilds in a state of pe
 
 Goroth’s symbol is a horned helm, impaled by a sword, representing unrelenting violence and insatiable bloodlust. His sigil is daubed in gore across banners, scrawled on war paint, or burned into armor plates. Warriors who wear the mark fight until death—or worse.
 
-![[Pasted image 20250516112453.png]]
+![](https://i.imgur.com/aBaAWGj.png)
 
 ---
 

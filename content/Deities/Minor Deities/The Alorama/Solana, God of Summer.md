@@ -3,7 +3,7 @@ _Domains_: Heat, Abundance
 _Creators_: Almariel and Pyrael  
 _Pantheon_: Alorama
 
-![[Pasted image 20250417094729.png]]
+![](https://i.imgur.com/nWL7V1k.png)
 
 **Description**  
 **Solana**, the God of Summer, is the embodiment of warmth, growth, and the abundance that comes with the season of life and prosperity. Created by [[Almariel, Lady of Light]]’s light and [[Pyrael, Aevari of Fire]]’s flame, Solana is the radiant deity who brings forth the bounty of the earth, ensuring that the fields are fertile, the fruit is ripe, and the warmth of the sun nurtures all living things. Known as **The Radiant Bloom**, Solana is adored for the life-giving energy she brings, as well as for the vibrant beauty that summer provides.
@@ -33,7 +33,7 @@ Solana’s teachings emphasize the joy of abundance and the importance of nurtur
 **Sigils and Symbols**  
 Solana’s symbol is a **sunburst surrounded by blooming flowers**, representing both the heat of the sun and the abundance it brings. Her followers wear this sigil as a charm or paint it on their barns and homes to invite her blessing. It is also used to decorate the fields and gardens during the **Midsummer Revelry** as a symbol of the joy and beauty of summer.
 
-![[Pasted image 20250417094928.png]]
+![](https://i.imgur.com/EanXfJb.png)
 
 ---
 

@@ -1,3 +1,4 @@
+#Campaign/NPC
 **Physical Description:** Mensarius is a thin, wiry human in his early thirties who seems to vibrate with constant nervous energy. His mousy brown hair is perpetually disheveled from his habit of running his fingers through it when stressed—which is always. Pale from spending most of his time indoors counting coins by lamplight, he has the slightly hunched posture of someone who's spent years bent over ledgers. His clothes are always immaculate despite his fidgeting: pressed vest, clean collar, and ink-stained fingers that he constantly wipes on a handkerchief kept in his breast pocket.
 
 Behind wire-rimmed spectacles, his watery blue eyes dart constantly, as if calculating risks and counting exits. He's thin to the point of looking underfed, though this stems more from anxiety affecting his appetite than actual poverty.

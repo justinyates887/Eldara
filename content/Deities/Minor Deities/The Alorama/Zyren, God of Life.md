@@ -3,7 +3,7 @@ _Domains_: Beginnings, Blossoming Souls
 _Creators_: Almariel and Galeon  
 _Pantheon_: Alorama
 
-![[Pasted image 20250417125430.png]]
+![](https://i.imgur.com/gwZKkFV.png)
 
 **Description**  
 **Zyren**, the God of Life, embodies the essence of creation, the spark that breathes life into the world, and the growth of the soul from birth. Created by [[Almariel, Lady of Light]]’s light and [[Galeon, Aevari of Air]]’s winds of inspiration, Zyren is the deity who oversees the beginnings of all life and the nurturing of new souls. Known as **The Breath of Beginnings**, Zyren represents the energy and vitality that starts every journey, infusing the world with the very essence of being.
@@ -33,7 +33,7 @@ Temples dedicated to Zyren are serene places where the focus is on life, love, a
 **Sigils and Symbols**  
 Zyren’s symbol is a **butterfly emerging from an orb of light**, representing the blossoming of life and the start of a soul’s journey. His followers wear this sigil as a charm or paint it on cradles and doorways to invite his blessing for new life. It is also often seen in places where new beginnings are cherished, such as nurseries and gardens, as a sign of Zyren’s nurturing presence.
 
-![[Pasted image 20250417125531.png]]
+![](https://i.imgur.com/0bj2Ej3.png)
 
 ---
 
