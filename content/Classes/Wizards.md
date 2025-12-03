@@ -53,7 +53,7 @@ Wizards in Eldara represent the scholarly pursuit of magical knowledge, dedicati
 
 ## **Centers of Magical Learning**
 
-**[[Aelarion (Region)]]** serves as the premier center for wizardly education, housing:
+**[[Aelarion]]** serves as the premier center for wizardly education, housing:
 
 - **The Great Observatory** - Where celestial magic and divination are studied
 - **The Crystal Gardens** - Centers of learning for transmutation and elemental magic

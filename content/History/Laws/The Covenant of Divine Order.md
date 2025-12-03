@@ -1,6 +1,6 @@
 
 **Signed:** Year 1200 of the Era of Conflict  
-**Signatories:** Representatives of **[[The Alorama]]**, **[[The Nyx]]**, and the **Assembly of Mortal Realms** 
+**Signatories:** Representatives of **[[The Alorama]]**, **[[The Nyx]]**, and the **[[Assembly of Mortal Realms]]** 
 **Enforced by:** The **[[Tribunal of Balance]]** (joint divine-mortal court)
 
 ---
@@ -71,7 +71,7 @@ A permanent court consisting of:
 
 - Three representatives chosen by **[[The Alorama]]**
 - Three representatives chosen by **[[The Nyx]]**
-- Three mortal representatives elected by the **[[Assembly of Realms]]**
+- Three mortal representatives elected by the **[[Assembly of Mortal Realms]]**
 
 **Section 2 - Jurisdiction**  
 The Tribunal has authority to:

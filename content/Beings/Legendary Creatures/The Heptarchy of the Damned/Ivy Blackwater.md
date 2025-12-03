@@ -1,1 +1,2 @@
+#Spoilers
 An elegant courtier with poison-green eyes who excels at identifying what people desire most. Ivy appears helpful, offering to "assist" others in achieving their dreams, but instead breeds resentment and competition. She turns friends into rivals by highlighting inequalities and making everyone feel they deserve more than they have.

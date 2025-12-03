@@ -1,1 +1,2 @@
+#Spoilers
 A former military commander with a barely contained volcanic temper. Ares presents himself as a strategic advisor but specializes in stoking conflicts between allies. He whispers of slights and injustices, turning minor disagreements into blood feuds. His rage burns cold and calculated. He doesn't explode, he orchestrates explosions in others.
