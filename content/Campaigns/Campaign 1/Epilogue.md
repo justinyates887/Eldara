@@ -1,7 +1,7 @@
 #Campaign/Lore
 ## Epilogue: Dawn Over Greendale
 
-**The Return:** As the first rays of dawn break over [[content/Campaigns/Campaign 1/Locations/Greendale]], the party returns along the forest path—battered, perhaps, but victorious. The contrast between their journey out and their return could not be more stark. Where once urgent whispers and fearful glances followed them through the market square, now relieved cheers and grateful smiles greet their arrival.
+**The Return:** As the first rays of dawn break over [[Greendale (Campaign)]], the party returns along the forest path—battered, perhaps, but victorious. The contrast between their journey out and their return could not be more stark. Where once urgent whispers and fearful glances followed them through the market square, now relieved cheers and grateful smiles greet their arrival.
 
 **[[Captain Aldrich]]'s Relief:** [[Captain Aldrich]] waits at the town gates, having paced the walls through the darkest hours of night. When he sees the party approaching, carrying evidence of their success and perhaps leading captured bandits, the weathered captain's stern facade finally cracks.
 
@@ -21,7 +21,7 @@ He insists on opening a special account for each party member, a gesture both pr
 
 _"Room 103 will always be yours if you need it,"_ she declares, pressing mugs of her finest ale into their hands. _"And don't think I'll let you pay for another drink in my establishment as long as I draw breath!"_
 
-**Wider Revelations:** The intelligence gathered from the bandit camp reveals troubling implications that [[Captain Aldrich]] and the town council will need to address. Someone in [[content/Campaigns/Campaign 1/Locations/Greendale]] provided detailed information to the bandits—maps too accurate, schedules too precise for outside observation alone. The investigation may be over, but questions remain about trust and security within the community.
+**Wider Revelations:** The intelligence gathered from the bandit camp reveals troubling implications that [[Captain Aldrich]] and the town council will need to address. Someone in [[Greendale (Campaign)]] provided detailed information to the bandits—maps too accurate, schedules too precise for outside observation alone. The investigation may be over, but questions remain about trust and security within the community.
 
 References to the "Crimson Company" suggest this was merely one cell of a larger criminal organization. Other towns, other festivals, other innocent celebrations may face similar threats. The party's success here may have prevented one tragedy while revealing a much larger problem.
 
@@ -45,7 +45,7 @@ The child rushes up and pull on your laurels
 
 The child then runs back to her mother, who shoots Cyrene another bashful glace before hurrying on their way.
 
-**Looking Forward:** As the party rests after their ordeal, [[Captain Aldrich]] approaches with a more formal proposition. The town council has authorized him to offer the party an ongoing relationship—perhaps as special investigators, perhaps as honored friends who can call upon [[content/Campaigns/Campaign 1/Locations/Greendale]]'s resources when needed.
+**Looking Forward:** As the party rests after their ordeal, [[Captain Aldrich]] approaches with a more formal proposition. The town council has authorized him to offer the party an ongoing relationship—perhaps as special investigators, perhaps as honored friends who can call upon [[Greendale (Campaign)]]'s resources when needed.
 
 _"The truth is, we need people like you. People who can see threats we miss, handle dangers we can't. This won't be the last time dark forces threaten innocent folk, and I'd sleep better knowing we could call on you when that day comes."_
 
@@ -53,6 +53,6 @@ _"The truth is, we need people like you. People who can see threats we miss, han
 
 As evening falls and the extended festivities wind down, the party might find themselves sitting together—perhaps in [[The Third Onion Tavern]], perhaps on the walls overlooking the market square—watching the last of the celebration and reflecting on how quickly everything could have gone wrong, and how their choices made all the difference.
 
-**The Final Image:** The last image of [[content/Campaigns/Campaign 1/Locations/Greendale]] might be the sight of families walking safely home through torch-lit streets, merchants loading wagons for their journeys without fear of ambush, and children playing games that tomorrow they'll remember as "heroes and bandits"—always choosing to be the heroes.
+**The Final Image:** The last image of [[Greendale (Campaign)]] might be the sight of families walking safely home through torch-lit streets, merchants loading wagons for their journeys without fear of ambush, and children playing games that tomorrow they'll remember as "heroes and bandits"—always choosing to be the heroes.
 
 The Festival of Therion will return next year, and the year after, and for years to come. Because sometimes, when good people stand together against the darkness, the light not only endures—it grows brighter.

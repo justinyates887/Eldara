@@ -1,17 +1,17 @@
 #Campaign/Location
 Encounter: [[Bandits x8]] [[Bandit Archer x4]] [[Bandit Captain x1]] [[Mage Apprentice x1]]
 
-**Location & Approach:** **Thornvale Glen** sits in a natural depression between two wooded hills, roughly three miles north of [[content/Campaigns/Campaign 1/Locations/Greendale]]. Ancient standing stones—remnants of some forgotten civilization—dot the clearing, providing both cover and an ominous atmosphere. A small stream runs through the eastern edge of the glen, and old growth pines create a natural windbreak along the northern ridge.
+**Location & Approach:** **Thornvale Glen** sits in a natural depression between two wooded hills, roughly three miles north of [[Greendale (Campaign)]]. Ancient standing stones—remnants of some forgotten civilization—dot the clearing, providing both cover and an ominous atmosphere. A small stream runs through the eastern edge of the glen, and old growth pines create a natural windbreak along the northern ridge.
 
 The camp has been established for at least a week, long enough for the bandits to feel secure but recent enough that they haven't built permanent structures. Smoke from carefully concealed fires drifts up through the tree canopy, and the sound of voices carries on the wind.
 
 **The Camp Layout:** The bandit camp sprawls across the glen in a roughly circular pattern, using the ancient stone monuments as anchor points for their defensive positions. A central command area sits near the largest standing stone, while smaller clusters of tents and supply caches spread outward in a loose defensive perimeter.
 
-**After Combat:** The camp contains crucial intelligence about the planned attack on [[content/Campaigns/Campaign 1/Locations/Greendale]]:
+**After Combat:** The camp contains crucial intelligence about the planned attack on [[Greendale (Campaign)]]:
 
 **The Command Table:**
 
-- **Maps of [[content/Campaigns/Campaign 1/Locations/Greendale]]:** Detailed layouts showing guard positions, patrol routes, and key buildings
+- **Maps of [[Greendale (Campaign)]]:** Detailed layouts showing guard positions, patrol routes, and key buildings
 - **Festival Schedule:** Timeline showing when the vault holds maximum money
 - **Attack Plans:** Dawn assault strategy targeting the bank, guard barracks, and escape routes
 - **Personnel Lists:** Names and descriptions of town guards, bank staff, and key citizens
@@ -33,6 +33,6 @@ The camp has been established for at least a week, long enough for the bandits t
 
 **Strategic Intelligence:**
 
-- **Inside Information:** Someone in [[content/Campaigns/Campaign 1/Locations/Greendale]] has been providing intelligence (maps are too detailed otherwise)
+- **Inside Information:** Someone in [[Greendale (Campaign)]] has been providing intelligence (maps are too detailed otherwise)
 - **Larger Network:** References to "the Crimson Company" suggest this group is part of a larger organization
 - **Future Targets:** Mentions of other towns and festivals indicate this is their regular operation

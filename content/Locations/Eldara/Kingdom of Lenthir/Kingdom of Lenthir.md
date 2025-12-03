@@ -40,7 +40,7 @@ Villages have a strong autonomy, and pay very little in the form of taxes toward
 
 **Are schools, wells, courts, and the army paid for by taxes?**
 
-Most wells and courts are enforced on the village level. There is a higher court in Lenthir proper to deal with larger crimes and disputes.
+Most wells and courts are enforced on the village level. There is a higher court in [[★ Lenthiri]] proper to deal with larger crimes and disputes.
 
 Local watches are funded by the village, though Lenthir does maintain a small standing army.
 
@@ -50,7 +50,7 @@ _Answer:_
 
 **What services do people expect from their government?**
 
-_Answer:_
+_Answer:_ Very little. Lenthiri citizens expect the monarchy to handle only what cannot be managed locally: defending the southern border from orc raids, maintaining diplomatic relations with other kingdoms, providing kingdom-wide recognition of marriages and property deeds, coordinating disaster relief when local resources are overwhelmed, and ensuring magical law enforcement through external contractors. Beyond this, citizens expect to govern themselves through their local elected officials.
 
 **What do people owe their government?**
 
@@ -78,7 +78,14 @@ _Answer:_ Most everything in Lenthir can be paid in kind. There are sometimes re
 
 **Who provides support services for the head of state and what are they called (examples: councilors, ministers, secretaries, viziers)?**
 
-_Answer:_
+_Answer:_ The monarch maintains only a small administrative staff to handle kingdom-level functions. These positions include:
+
+- **The Marshal of the Graymarch**: Oversees the standing army and coordinates defense of the southern border_ 
+- **The Keeper of Records**: Maintains the kingdom-wide registry of marriages, property deeds, and the census
+- **The Herald of the Crown**: Manages diplomatic relations with other kingdoms and oversees the postal system 
+- **The Steward of the Granaries**: Coordinates disaster relief efforts and maintains the kingdom's emergency stockpiles*
+
+These four positions, along with a handful of clerks and messengers, constitute the entirety of the royal administration. The monarch personally handles contracts with magical enforcement agencies.
 
 **Are offices hereditary, elected, or appointed?**
 
@@ -110,15 +117,15 @@ _Answer:_ Monarchs are disallowed by the constitution to rule before military ag
 
 **Who is responsible for protecting the head-of-state?**
 
-_Answer:_
+_Answer:_ The monarch's personal protection falls to a small contingent of **Royal Riders**, elite cavalry personally sworn to the crown. This unit typically numbers between 20-30 highly trained horsemen who serve as both bodyguards and the monarch's personal messengers for sensitive matters. When at the capital, local city watch may supplement security, but the Royal Riders remain the primary protective force. The low-touch nature of Lenthiri governance means the monarch rarely needs extensive security, they're more likely to be found riding the plains than holding elaborate court.
 
 **What safeguards does the head-of-state have against assassins, poison, assault, and magical attack?**
 
-_Answer:_
+_Answer:_ The Royal Riders provide physical protection against assassins and assault. Magical threats are the most concerning, as the kingdom lacks its own magical defenses. In times of heightened threat, the monarch may contract protective wards from [[Aelarion]]'s colleges or hire temporary magical bodyguards from [[★ Ithilvaeth]], but such measures are rare and expensive. Most Lenthiri monarchs rely on their accessibility and relatively uncontroversial governance to avoid making the kind of enemies who would resort to assassination.
 
 **Who can give orders (to the military, to the tax collectors, to the civil servants, to ordinary folks on the street)?**
 
-_Answer:_
+_Answer:_ The **monarch** can give orders to the **Marshal of the Graymarch** (and thus the standing army), the small royal administrative staff, and the Royal Riders. However, the monarch has no direct authority over local matters. **Local elected officials** in each city and village give orders to their own watches, tax collectors, and civil servants. These local leaders answer to their constituents, not to the crown. In practice, ordinary citizens follow local laws enforced by local officials. The only time the monarch can give orders that affect ordinary citizens is during declared emergencies (natural disasters, war) or when enforcing the few kingdom-wide laws that exist.
 
 **How are the people with the power to give orders chosen?**
 
@@ -126,19 +133,30 @@ _Answer:_ Election
 
 **Are any activities licensed or certified (driving, dog ownership, being an attorney or a physician)?**
 
-_Answer:_
+_Answer:_ Very few activities require kingdom-level licensing. The only professions requiring royal certification are:
+
+- Magical practitioners working within Lenthir's borders (certified through contracts with external enforcement agencies) 
+- Inter-kingdom merchants conducting trade across borders (requiring royal seal for diplomatic protection) 
+- Royal messengers and postal workers (certified by the Herald of the Crown)**
+
+Most other licensing happens at the local level. Physicians, attorneys, craftsmen, and other professionals are certified by their own city or village guilds and councils. What counts as adequate qualification in one settlement may differ from another, reflecting Lenthir's decentralized governance.
 
 **Who does the certification or licensing?**
 
-_Answer:_
+_Answer:_ Kingdom-level certifications are handled by the relevant royal administrator: the Herald of the Crown certifies merchants and postal workers, while magical practitioner licensing is managed through the external contractors from [[Aelarion]] or [[★ Ithilvaeth]] (the monarch negotiates these contracts but the magical enforcement agencies handle the actual certification process). Local certifications are handled by city and village councils, trade guilds, or professional organizations within each settlement. There is no central licensing authority beyond the few kingdom-level exceptions.
 
 **Is it merely formal (pay a fee, and get a license), or are there qualifications to meet?**
 
-_Answer:_
+_Answer:_ 
+- Magical practitioners: Must meet strict qualifications set by the enforcement agencies (typically demonstrating competence, knowledge of laws, and safety protocols). This is not merely a fee. 
+- *Inter-kingdom merchants*: Largely formal. Merchants pay a fee and swear an oath to conduct honest trade, receiving a royal seal for diplomatic protection. 
+- *Royal messengers/postal workers*: Must demonstrate literacy, riding ability, and knowledge of the road network.*
+
+Local certifications vary wildly. Some settlements maintain rigorous guild standards with apprenticeships and examinations. Others simply require a fee and a good reputation. This inconsistency is accepted as the natural result of local autonomy.
 
 **Can licenses or certifications be revoked, and if so, how?**
 
-_Answer:_
+_Answer:_ Kingdom-level licenses can be revoked by the issuing authority. The Herald of the Crown can revoke merchant seals for fraud or treaty violations. Magical practitioner certifications are revoked by the enforcement agencies for illegal magic use or violations of magical law. Royal messenger certifications can be revoked by the Herald for dereliction of duty or breach of confidentiality. Local certifications are revoked according to each settlement's own rules, typically through guild tribunals or council votes. Appeals for kingdom-level revocations can be made to the monarch directly, though this is rare.
 
 ---
 
@@ -146,67 +164,65 @@ _Answer:_
 
 **What goods are produced in this country and where are they produced?**
 
-_Answer:_
+Lenthir's primary production is agricultural. Grain (wheat, barley, oats), vegetables, and legumes are grown across the vast plains. Each settlement produces food, but the central plains are the most productive. Horses are bred throughout the kingdom, with the legendary [[Great Horses of Westhold]] coming from specialized breeding programs in the western territories. Leather goods, wool, and textiles are produced locally in most settlements. Honey, herbs, and preserved foods are common secondary products.
 
 **What are the major trade goods?**
 
-_Answer:_
+Grain is Lenthir's primary export, feeding much of the continent. Great Horses command extremely high prices and are sought after by nobility and cavalry units across all kingdoms. Preserved foods, dried meats, and travel rations are also major exports. Lenthiri leather goods and wool are known for quality but are secondary to food exports.
 
 **Are there trading centres?**
 
-_Answer:_
+Each major city serves as a regional trading center for surrounding villages. [[content/Locations/Eldara/Kingdom of Lenthir/Regions/Greendale|Greendale]] has the largest markets due to its proximity to surrounding fiefdoms, but most trade happens locally or through traveling merchants who circuit between settlements. The Graymarch also functions as a trading post with southern territories despite its military purpose.
 
 **What economic systems are used?**
 
-_Answer:_
+Lenthir uses a mixed economy: barter is extremely common in rural areas and between neighbors, cash (coins from various kingdoms) is used for larger transactions and inter-kingdom trade, and letters of credit are accepted from established merchant houses when dealing with bulk grain purchases. Stock companies do not exist. The economy is primarily capitalist but with strong communal support networks at the local level.
 
 **Are there banks?**
 
-_Answer:_
+Yes, but only two. The capital maintains a banking house that handles large merchant transactions, letters of credit, and secure storage of valuables. Greendale, as a major trade hub, also has a bank that serves traveling merchants and manages the town's famous vault (which stores a significant portion of the kingdom's emergency reserves and tax revenues). These are the only formal banking institutions in Lenthir. Outside these two locations, wealthy individuals may offer private loans, but most citizens have no access to banking services.
 
 **Do people barter or use money?**
 
-_Answer:_
+Both extensively. Rural areas and small transactions rely heavily on barter. Money is used for larger purchases, inter-settlement trade, and anything involving foreign merchants. Most citizens engage in both systems depending on context.
 
 **If money is used, is it valuable itself or is it fiat currency?**
 
-_Answer:_
-
-**If there is fiat money, who guarantees it?**
-
-_Answer:_
+Valuable itself. Coins are worth their metal content (gold, silver, copper). Lenthir has no fiat currency system.
 
 **What are people's attitudes toward money?**
 
-_Answer:_
+Practical and pragmatic. Money is a tool for trade, not a measure of worth. Hoarding wealth is seen as foolish when land and livestock are more valuable. Ostentatious displays of wealth are considered poor taste. Generosity and fair dealing are valued over accumulation.
 
 **What are people's attitudes toward poverty?**
 
-_Answer:_
+Viewed as unfortunate but solvable through community support and hard work. True destitution is rare given abundant land and food. Communities generally help struggling neighbors with shared labor, food, or temporary lodging. However, those who won't work are viewed less sympathetically.
 
 **Are there generally acceptable standards for coins?**
 
-_Answer:_
+Lenthir accepts coins from all major kingdoms based on metal content and weight. Most common are coins from Vanguard Reach, with rare mints from Caernast, and Aelarion. Merchants use scales to verify weight when dealing with unfamiliar coinage. There is no standard "Lenthiri coin" as the kingdom doesn't mint its own currency.
 
 **How easy and common is counterfeiting?**
 
-_Answer:_
+Relatively uncommon. Since coins are valued by metal content rather than face value, counterfeiting requires expensive metals. Clipped coins or coins with cheaper metal cores do appear occasionally, which is why merchants weigh suspicious coins. The decentralized economy and reliance on barter reduce opportunities for systematic counterfeiting.
 
 **What does this country import? Export?**
 
-_Answer:_
+Exports: Grain, Great Horses, preserved foods, leather goods, wool. 
+
+Imports: Worked metal goods, labor, and weapons from Vanguard Reach, luxury items and magical supplies from Aelarion, finished manufactured goods from Caernast, stone and metalwork from Khalgrod Deep.
 
 **How important is trade to the economy?**
 
-_Answer:_
+Moderately important. Lenthir is largely self-sufficient in essentials (food, basic goods), but trade provides metal goods, luxuries, and specialized items that improve quality of life. Export of surplus grain generates income for imports. The economy could survive without external trade but would be less prosperous.
 
 **How is currency exchange handled, and by whom?**
 
-_Answer:_
+Money changers operate in larger towns and cities, typically merchants who maintain scales and knowledge of current exchange rates. They charge small fees for their service. In smaller settlements, people simply weigh coins and negotiate value based on metal content. No official exchange system exists.
 
 **What is monetary system used, if any, and who mints it?**
 
-_Answer:_
+Lenthir uses coins minted by other kingdoms, primarily Vanguard Reach, Caernast, and Aelarion. The kingdom has never established its own mint. This is partly due to limited metal resources and partly philosophical, the monarchy sees no need for its own currency when foreign coins work fine based on metal weight.
 
 ---
 

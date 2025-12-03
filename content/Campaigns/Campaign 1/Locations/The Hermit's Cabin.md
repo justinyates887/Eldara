@@ -1,7 +1,7 @@
 #Campaign/Location
 ## The Hermit's Cabin
 
-**Location & Approach:** The cabin sits in a small clearing roughly a mile south of [[content/Campaigns/Campaign 1/Locations/Greendale]], accessible only by a narrow deer path that winds through dense undergrowth. Ancient oak trees tower overhead, their thick canopy filtering the light into dappled patterns on the forest floor. The approach is deliberately obscured—[[Olymyster Oakleaf]] values his privacy and has spent years ensuring his home remains hidden from casual discovery.
+**Location & Approach:** The cabin sits in a small clearing roughly a mile south of [[Greendale (Campaign)]], accessible only by a narrow deer path that winds through dense undergrowth. Ancient oak trees tower overhead, their thick canopy filtering the light into dappled patterns on the forest floor. The approach is deliberately obscured—[[Olymyster Oakleaf]] values his privacy and has spent years ensuring his home remains hidden from casual discovery.
 
 **The Cabin Itself:** A modest log structure that seems to have grown from the forest itself, [[Olymyster Oakleaf]]'s cabin is built around the trunk of a massive dead oak tree. Mushrooms and moss cover much of the roof, while herbs and wildflowers grow in chaotic profusion around the foundation. What should be a charming woodland dwelling has an air of watchful tension—too many small details suggest defensive preparations.
 
@@ -63,7 +63,7 @@
 
 **Diplomacy (Persuasion DC 13):** _"Look, we're just farmers trying to do right by someone who helped us. You seem like decent folk—explain your business and maybe we can work something out."_
 
-**Appeal to Community (DC 15):** _"If you're really here about threats to [[content/Campaigns/Campaign 1/Locations/Greendale]], then we're on the same side. [[Olymyster Oakleaf|Old Olymyster]] might be addled, but he sees things others miss."_
+**Appeal to Community (DC 15):** _"If you're really here about threats to [[Greendale (Campaign)]], then we're on the same side. [[Olymyster Oakleaf|Old Olymyster]] might be addled, but he sees things others miss."_
 
 **Show Official Authority (Automatic if convincing):** _"[[Captain Aldrich]] sent you? Well... suppose that changes things. But you treat the old fellow gently, you hear?"_
 

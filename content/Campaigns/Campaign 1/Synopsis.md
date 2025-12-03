@@ -1,7 +1,7 @@
 #Campaign/Lore
 ## Introduction
 
-A brisk fall wind dances through the air. The sun hangs lower in the sky, as the sunder decent of the winter darkness creeps upon the shortening days. Golden rays dance across fields of wheat and corn, the sweet, nostalgic smell of decay and woodsmoke hangs in the air. The town of [[content/Campaigns/Campaign 1/Locations/Greendale]], a quaint agricultural and travel through town located in the kingdom of Lenthir, realm of the horse lords, is hosting the renowned annual festival of Therion, celebrating the harvest.
+A brisk fall wind dances through the air. The sun hangs lower in the sky, as the sunder decent of the winter darkness creeps upon the shortening days. Golden rays dance across fields of wheat and corn, the sweet, nostalgic smell of decay and woodsmoke hangs in the air. The town of [[Greendale (Campaign)]], a quaint agricultural and travel through town located in the kingdom of Lenthir, realm of the horse lords, is hosting the renowned annual festival of Therion, celebrating the harvest.
 
 The festival of Therion is a major event for the town of Greendale, driving traffic from several significant surrounding fiefdoms. Dwarves from the ironfell travel down to trade minerals and jewels. The elves of Lirithal make the journey through the deep, magical dark of Gloamwood forest to share magic, wisdom, and update accounts of human affairs. The halflings of the Greenfell seek barley and berry for their various meads and wines, of which they hold a certain fondness. Various humans from the northern kingdom of Vanguard seek provisions before the coming harsh winters.
 
