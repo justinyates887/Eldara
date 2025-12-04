@@ -1,3 +1,4 @@
+#Campaign/Location 
 Pre-writing Notes:
 - Typical human/ag society
 - Barter, trade, and capitalist
@@ -230,167 +231,167 @@ Lenthir uses coins minted by other kingdoms, primarily Vanguard Reach, Caernast,
 
 **What are considered normal and legal ways of gathering evidence and determining guilt?**
 
-_Answer:_
+Witness testimony is primary. Physical evidence (stolen goods, weapons, damaged property) is presented when available. In villages, community reputation and character witnesses carry significant weight. Oaths are taken seriously in this culture. Local judges may visit crime scenes. Magical divination is extremely rare and expensive, only used for the most serious cases through contracted mages from [[Aelarion]] or [[★ Ithilvaeth]].
 
 **Are torture and magic part of the legal system?**
 
-_Answer:_
+Torture is not standard practice and is generally viewed as dishonorable. It may occur in extreme cases at the [[Graymarch]] during wartime interrogations of enemy combatants, but not in civilian courts. Magic for evidence gathering (truth spells, forensic divination) can be requested but must be contracted from external magical enforcement agencies at considerable expense. Most cases never involve magic.
 
 **Are arbitrary judgements by a lord or landowner allowed, or is there a standard that they are supposed to follow?**
 
-_Answer:_
+Local judges (elected officials or appointed community leaders) are expected to follow customary law and community standards. Arbitrary judgements are frowned upon and can be appealed. While judges have discretion in sentencing, they answer to their communities. A judge making consistently unfair rulings would likely lose their position in the next election or face community pressure.
 
 **Is there an appeal system?**
 
-_Answer:_
+Yes. Local judgements can be appealed to the higher court in the capital. This is expensive and time-consuming, so most people only appeal serious cases. The monarch (or their appointed representative) hears these appeals and makes final rulings. Appeals beyond this do not exist.
 
 **How high can a case go in the system before it is finally settled?**
 
-_Answer:_
+Local court, then capital high court, then the monarch. Three levels maximum. The monarch's ruling is final and cannot be appealed.
 
 **Is everyone tried in the same courts or are there special courts for special classes of people — for example, are mages tried in specialized wizard's court?**
 
-_Answer:_
+Everyone is tried in the same local courts regardless of class or race. The only exception is magical crimes, which involve the external enforcement contractors who have jurisdiction over magical matters per their contracts with the kingdom.
 
 **Are there separate courts for civil and criminal matters?**
 
-_Answer:_
+No formal separation at the local level. The same judges hear disputes between neighbors (civil) and theft accusations (criminal). The capital high court may designate different judges for different types of cases, but this is administrative convenience, not separate court systems.
 
 **Are there separate courts for magical and non-magical matters?**
 
-_Answer:_
+Magical crimes and disputes involving magic fall under the jurisdiction of the contracted enforcement agencies from [[Aelarion]] or [[★ Ithilvaeth]], who handle investigation, trial, and sentencing per their contracts. Non-magical matters go through normal Lenthir courts.
 
 **Are there separate courts for humans and non-humans?**
 
-_Answer:_
+No. All residents are tried in the same courts under the same laws.
 
 **Are there separate courts for religious matters?**
 
-_Answer:_
+No. Religious disputes are either handled within religious communities or, if they involve criminal activity or civil disputes, in normal courts.
 
 **What things are considered truly serious crimes and why (example: a trade-oriented culture might consider counterfeiting or bootlegging a death-penalty crime while in a place where life is cheap murder might be something that only results in a small fine)?**
 
-_Answer:_
+Horse theft is perhaps the most serious crime in Lenthiri culture (horses are livelihood, status, and survival). Murder, rape, and arson are capital crimes. Destroying crops or granaries (threatening food security) is extremely serious. Treason and collaboration with orc raiders. Magical crimes that endanger communities. Counterfeiting or fraud involving the emergency grain reserves.
 
 **What are the punishments for serious versus minor crimes?**
 
-_Answer:_
+Serious crimes (murder, horse theft, arson, major magical crimes): Death by hanging, or hard labor at the Graymarch for life. Minor crimes (petty theft, assault, property damage): Fines, restitution, public shaming, temporary labor service to the wronged party. Medium crimes (non-lethal violence, significant theft): Corporal punishment, substantial fines, extended labor service, banishment.
 
 **Are there prisons, or are people punished and released?**
 
-_Answer:_
+No prisons in most settlements. Serious criminals are executed or sent to hard labor at the [[Graymarch]]. Minor criminals are punished (fined) and released. Temporary holding cells exist for people awaiting trial, but long-term imprisonment is rare. The Graymarch has facilities for prisoners serving labor sentences.
 
 **Are there degrees of punishment such as fines, branding, public whippings, removal of body parts, executions — or do they just hang everybody regardless of the crime?**
 
-_Answer:_
+Yes. Fines and restitution for minor offenses. Public shaming (stocks, public apology). Flogging for medium offenses. Removal of body parts or branding is not practiced. Execution (hanging) for capital crimes. Banishment for those the community wants gone but whose crimes don't warrant death.
 
 **Who is responsible for catching criminals?**
 
-_Answer:_
+Local watch in towns and cities. In villages, able-bodied citizens form posses when needed. Victims and their families often pursue justice themselves, especially in remote areas. The standing army at the [[Graymarch]] deals with orc raiders and border security but not internal crime. Magical crimes are investigated by the contracted enforcement agencies.
 
 **Who pays the thief takers?**
 
-_Answer:_
+Local watch is paid by local taxes. Citizen posses are unpaid volunteers. Some settlements offer rewards for capturing dangerous criminals, paid from local coffers. Victims may offer private rewards.
 
 **Who pays for prisons and jails?**
 
-_Answer:_
+Local settlements pay for their holding cells through local taxes. The [[Graymarch]] labor facilities are funded by kingdom taxes as part of military spending.
 
 **Who supplies food to prisoners?**
 
-_Answer:_
+Local prisoners awaiting trial are fed by their families or by the settlement if they have no family. At the Graymarch, prisoners working hard labor are fed basic rations as part of the military supply system.
 
 **How are law enforcement officers organized?**
 
-_Answer:_
+Each settlement organizes its own watch as it sees fit. Some have formal constables or sheriffs, others rely on rotating volunteer duty, and some have elected watch captains who organize citizen patrols. There is no kingdom-wide organization or standard structure. The only unified force is the standing army at the Graymarch, which focuses on external defense.
 
 **Are there independent precincts, overlapping districts, or separate jurisdictions?**
 
-_Answer:_
+Each settlement is its own jurisdiction. No overlap. Cities may have multiple precincts within them, but this is internal organization. Jurisdictional boundaries are clear: each settlement handles its own area. Crimes occurring between settlements or on the roads are handled by whichever settlement the criminal is brought to, or by the nearest settlement to the crime scene.
 
 **Can law enforcement be hired?**
 
-_Answer:_
+Private guards can be hired for personal or merchant protection, but they have no official authority beyond any other citizen. They cannot make arrests or conduct investigations on behalf of the law. Some wealthy merchants traveling with valuable goods hire guards, but these are essentially armed companions, not law enforcement.
 
 **Are there lawyers or advocates?**
 
-_Answer:_
+Few formal lawyers exist. In local courts, people represent themselves or ask respected community members to speak on their behalf. The capital high court has trained advocates who can be hired, primarily for complex property disputes or appeals. These advocates are expensive and unnecessary for most cases.
 
 **Who can afford legal representation?**
 
-_Answer:_
+Wealthy landowners, successful merchants, and horse breeders. Most citizens represent themselves. In serious criminal cases, family members or friends may speak as character witnesses, which serves a similar function without cost.
 
 **Who trains the legal experts and are they certified?**
 
-_Answer:_
+The handful of advocates in the capital learned through apprenticeship with established advocates or through study in [[Aelarion]] or [[★ Ithilvaeth]]. No formal certification exists. Reputation and success rate determine an advocate's value. Local judges learn on the job or are chosen for their wisdom and community standing.
 
 **Are people guilty until proven innocent, innocent until proven guilty, or does it depend on the mood the bench is in when the case comes in front of it?**
 
-_Answer:_
+Presumed innocent until proven guilty is the ideal, but in practice it depends on community sentiment and the accused's reputation. Someone caught red-handed with stolen goods faces an uphill battle. A respected farmer accused by a known troublemaker has the benefit of doubt. Judges try to be fair, but human nature and community pressure influence proceedings.
 
 **Are there assumptions made about how an accused criminals will be treated?**
 
-_Answer:_
+Accused criminals are expected to be held for trial if there's flight risk, but not mistreated. Violence against prisoners is discouraged. However, communities are small and informal, so treatment varies. A popular community member accused of crime will be treated better than a stranger or someone already disliked.
 
 **Are there judges other than the nobles or gentry?**
 
-_Answer:_
+Yes. Most local judges are elected community members or village elders, not nobles. Lenthir has very little hereditary nobility. Judges are chosen for wisdom, fairness, and community respect. The capital high court judges are appointed by the monarch but need not be of any particular class. Merit and reputation matter more than birth.
 
 **How are judges paid and by whom?**
 
-_Answer:_
+Local judges are paid by their settlements, either as a salary or through community support (gifts of food, labor, housing). In small villages, being judge may be an unpaid honor with the expectation of community support. Capital high court judges receive salaries from kingdom taxes.
 
 **How often are remote areas likely to see a judge?**
 
-_Answer:_
+Remote villages may have a permanent elder who serves as judge, or cases may wait weeks or months for a traveling judge to circuit through. Very remote areas may go a year between visits from any official authority. Serious cases requiring higher judgment may require the accused be transported to larger towns.
 
 **Is mob justice common? Is it legal?**
 
-_Answer:_
+Not common but not unknown, especially for horse thieves or in remote areas where official justice is distant. Technically illegal, but rarely prosecuted if the mob's action seems proportionate to the crime. Communities generally prefer official proceedings but understand the impulse when someone catches a thief red-handed.
 
 **How is mob justice viewed by society?**
 
-_Answer:_
+Viewed with mixed feelings. Officially discouraged. Pragmatically understood. If a community catches a horse thief and hangs them immediately, authorities might not pursue it if the evidence was clear. If a mob beats someone to death over a disputed debt, that's murder and will be prosecuted. Context matters.
 
 **Are highwaymen, muggers, bandits, or pirates common or rare?**
 
-_Answer:_
+Rare. Low population density and community cohesion make banditry difficult. Most roads are safe. The southern routes near orc territory are the exception, as well as certain areas near the [[Gloamwood Forest]]. Organized banditry is almost nonexistent. Pirates are not relevant as Lenthir's travel system is landlocked.
 
 **What sorts of crimes would the average citizen be likely encounter in their lifetime?**
 
-_Answer:_
+Petty theft, property disputes with neighbors, livestock wandering onto others' land, market fraud (dishonest weights, poor quality goods), occasional bar fights, boundary disputes. Most citizens will never encounter serious violent crime. Horse theft is rare but serious when it happens.
 
 **Who can make or repeal laws?**
 
-_Answer:_
+The monarch can make kingdom-wide laws, though they rarely do. Local settlements make their own local laws through their councils or community meetings. Major changes to kingdom law would traditionally involve consultation with major settlements, though the monarch has final authority. In practice, most law is customary rather than written.
 
 **How are alleged criminals treated before their trials?**
 
-_Answer:_
+Held in local cells or under guard if flight risk exists. Allowed family visits. Fed adequately. Not tortured or abused. May be released on surety (someone vouching they'll appear for trial) if the crime is minor and they're trusted. Dangerous criminals or strangers are kept confined.
 
 **How are convicted criminals treated?**
 
-_Answer:_
+Punishment is administered promptly. Minor offenders are fined, publicly shamed, or punished and released. Serious offenders are executed or sent to hard labor at the Graymarch. There is no concept of "serving time" beyond labor sentences. Once punishment is complete, the matter is considered settled. Reformed criminals can reintegrate into society, though reputation damage persists.
 
-**Do the police, military, or city guard make a practise of roughing up suspects?**
+**Do the police, military, or city guard make a practice of roughing up suspects?**
 
-_Answer:_
+Not standard practice. Individual guards or watch members might be rough during arrest of violent criminals, but systematic brutality is not part of the culture. Communities are too small and interconnected for routine violence to be tolerated. The military at the Graymarch might be harsher with captured orc raiders than with citizens.
 
 **Are there laws forbidding certain types of people (peasants, wizards, priests, women) from carrying arms?**
 
-_Answer:_
+No. Most citizens carry knives as tools. Many own bows for hunting. Swords and military weapons are less common but not forbidden. The practical culture sees weapons as tools for work and defense. Convicted violent criminals might be forbidden weapons as part of their sentence.
 
 **Are there laws requiring certain people to be skilled with certain weapons?**
 
-_Answer:_
+No formal requirements, however social pressure and survival rather than law ensures most people have basic competence with knife, staff, or bow.
 
 **Are certain spells (as opposed to magic generally) illegal?**
 
-_Answer:_
+All magic is forbidden unless authorized. 
 
 **How would a criminal magician be detected? Apprehended? Punished?**
 
-_Answer:_
+Detected by the contracted enforcement agencies through their own methods (magical surveillance, informant networks, investigation of unusual events). Apprehended by enforcement agency operatives, sometimes with local watch assistance. Punished according to the enforcement agency's standards, which usually means magical binding or removal of magical ability for serious offenses, fines and restrictions for minor offenses, and death for the most dangerous practitioners. Local courts have little to no jurisdiction.
 
 ---
 
@@ -398,87 +399,95 @@ _Answer:_
 
 **Which nations have formal relations with this country?**
 
-_Answer:_
+[[Kingdom of Vanguard Reach]] (strongest relationship), [[Caernast]] (trade partner for advanced dwarven mills and machines), [[Aelarion]] (loose diplomatic ties), [[Ironveil]] (trade and mutual defense considerations due to proximity). [[The Greenfell]] has minimal contact due to their isolation, save for [[The Festival of Therion]]. Relations with other kingdoms are informal or nonexistent.
 
 **Who can be ambassadors and envoys?**
 
-_Answer:_
+The Herald of the Crown handles most diplomatic communication through letters and messengers. For important negotiations, the monarch may appoint a trusted advisor or regional leader as special envoy. There are no professional diplomats. Appointments are temporary and task-specific.
 
 **Are there standing embassies and consulates, or are envoys sent only when something specific comes up?**
 
-_Answer:_
+No standing embassies. Envoys are sent only when specific issues arise requiring face-to-face negotiation. The low-touch monarchy sees permanent diplomatic missions as unnecessary expense. Regular communication happens through the postal system and travelers.
 
 **How are treaties arranged?**
 
-_Answer:_
+Through direct negotiation between monarchs or their appointed representatives. Treaties are simple, practical documents focused on specific issues like trade terms, mutual defense, or border security. The Herald of the Crown drafts and maintains treaty records. Major treaties may involve consultation with affected cities, but the monarch has final authority.
 
 **Are there any significant ones currently in force or coming up for signing?**
 
-_Answer:_
+Long-standing mutual defense pact with Vanguard Reach. Trade agreements with Caernast governing grain exports. Border security coordination with Vanguard Reach regarding orc raids in southern territories. An aging agreement with Ironveil regarding trade routes may need renewal soon.
 
 **How much do official attitudes toward other countries affect commerce and trade?**
 
-_Answer:_
+Minimal effect. Lenthir's government stays out of merchant affairs. As long as treaties are honored and trade benefits Lenthiri citizens, the monarchy doesn't interfere. Poor diplomatic relations might slow official communication but rarely stop trade. The practical culture values commerce over politics.
 
 **Do merchants pretty much ignore tensions between governments as long as they can make a profit, or will this get them into trouble?**
 
-_Answer:_
+Merchants largely ignore political tensions and face little trouble for it. The monarchy won't punish merchants for trading with kingdoms Lenthir has cool relations with. The only exception would be trading with active enemies during wartime, which would be considered treason. This hasn't been relevant in recent memory.
 
 **How much formal spying and intelligence gathering is normally done by governments?**
 
-_Answer:_
+Almost none. The monarchy lacks resources and interest for organized espionage. The Herald of the Crown maintains correspondence with counterparts in other kingdoms and learns through normal diplomatic channels. Merchants and travelers share information informally. This casual approach works because Lenthir has few enemies and limited strategic ambitions.
 
 **How much spying is done by the military?**
 
-_Answer:_
+The Marshal of the Graymarch maintains scouts who monitor orc movements and southern border activity. This is tactical reconnaissance, not political espionage. No organized military intelligence service exists. Information about other kingdoms' military capabilities comes from observation during joint exercises or casual conversation.
 
 **Do merchants (or companies) engage in espionage?**
 
-_Answer:_
+Not systematically. Merchants gather market intelligence (crop yields, prices, demand) as normal business practice, but political espionage is rare. Some merchant families in Greendale may keep closer watch on Caernast's commercial policies, but this is business intelligence, not spying for the government.
 
 **Who has the best information gathering system?**
 
-_Answer:_
+Among kingdoms, probably Aelarion or Caernast. Lenthir's information gathering is informal and limited. The monarchy relies on merchant gossip, traveler reports, and occasional diplomatic correspondence. This suits their needs since they're not trying to manipulate or compete with neighbors beyond basic trade and security interests.
 
 **Which countries are traditional allies?**
 
-_Answer:_
+Vanguard Reach is the closest ally, with deep historical ties, shared borders, mutual defense interests, and cultural similarities. Ironveil is a reliable trade partner and friendly neighbor, though less politically close.
 
 **Which countries are traditional rivals?**
 
-_Answer:_
+None currently. Lenthir's agricultural focus and non-expansionist culture creates few rivalries. Historically there may have been tensions with Caernast over trade terms, but these are commercial disputes, not true rivalry. The practical culture avoids making enemies.
+
+Historically, the kingdom of Sylmaran, now [[Sylmaran Ruins]] were political rivals, but the [[Mire of Vyth]] is now a desolate land.
 
 **How do these traditional alliances and rivalries affect foreign policy?**
 
-_Answer:_
+The proximity to Vanguard Reach means Lenthir generally supports their positions and coordinates on border security. Beyond this, Lenthir's foreign policy is reactive rather than proactive. They maintain friendly neutrality with most kingdoms, intervening in continental politics only when directly affected.
 
 **Which heads-of-state are related by blood or marriage?**
 
-_Answer:_
+
 
 **How important are political marriages?**
 
-_Answer:_
+Not very
 
 **How do ties of blood and marriage affect foreign policy?**
 
-_Answer:_
+Family connections create natural communication channels and goodwill but don't override national interests. A marriage alliance with Vanguard Reach reinforces existing friendship but didn't create it. Marriage ties might make monarchs more inclined to hear each other out, but Lenthir won't sacrifice their interests for family sentiment.
 
 **Who are the rivals or enemies of this country?**
 
-_Answer:_
+The orc tribes of [[Gruz'Thok]] and [[Durmshaven]] raiding from the south are the closest thing to enemies, hence the Graymarch. 
+
+There are occasional tiffs with the nomads of [[Sandgrave]], but this is rare.
+
+No kingdom-level enemies exist currently. This could change with rising tensions, but historically Lenthir avoids making state enemies through their neutral, practical approach.
+
+It should be noted that most Kingdom's rely on Lenthir for stable food and grain, which makes Lenthir a powerful force, despite their apathy towards foreign policy.
 
 **How close are they physically, and how powerful are they?**
 
-_Answer:_
+The orc territories lie directly south of Lenthir across contested borderlands. The orc tribes are fragmented and disorganized compared to kingdom militaries, but their raids are persistent enough to require the Graymarch garrison. They're a nuisance requiring constant vigilance rather than an existential threat.
 
-**Who are the neighbouring countries and people and what are they like?**
+**Who are the neighboring countries and people and what are they like?**
 
-_Answer:_
+See: [[Kingdom of Vanguard Reach]], [[Sandgrave]], [[Saltcrest]],  [[Gruz'Thok]] and [[Durmshaven]]
 
-**What forms of government are used in neighbouring countries, and why are they the same or different?**
+**What forms of government are used in neighboring countries, and why are they the same or different?**
 
-_Answer:_
+See: [[Kingdom of Vanguard Reach]], [[Sandgrave]], [[Saltcrest]],  [[Gruz'Thok]] and [[Durmshaven]]
 
 ---
 
@@ -486,67 +495,165 @@ _Answer:_
 
 **Does the level of technological advancement match the level of social and political advancement?**
 
-_Answer:_
+Yes, reasonably well. Lenthir has medieval-level technology (simple tools, traditional farming, no factories) paired with locally democratic governance and relatively high social equality. The decentralized political system matches their agricultural, village-based economy. There's no mismatch where technology has raced ahead of social structures or vice versa. The practical culture develops both at a steady, sustainable pace.
 
 **What are the major political factions at present?**
 
-_Answer:_
+Lenthir has no formal political parties, but several loose factional divisions exist:
+
+**Regional Interests**: Cities and regions advocate for their own needs. Greendale (as a trade hub) pushes for better roads and foreign trade access. The Graymarch garrison wants more military funding. Agricultural heartland settlements want to maintain low taxes and autonomy. Western territories near The Greenfell have different concerns than southern border regions.
+
+**Traditionalists vs Reformers**: Traditionalists want to maintain the current low-touch monarchy and maximum local autonomy. Reformers (growing minority) argue the kingdom needs more central coordination for infrastructure, standardized laws, and unified response to threats. This split crosses regional lines.
+
+**Isolationists vs Interventionists**: Isolationists believe Lenthir should focus inward, avoid foreign entanglements, and maintain minimal diplomatic involvement. Interventionists (especially those in trade cities and border regions) argue Lenthir should leverage its agricultural power for greater continental influence and stronger alliances.
+
+These are ideological tendencies rather than organized factions. People shift positions based on specific issues.
 
 **How long have the current political factions been around?**
 
-_Answer:_
+These divisions have existed in various forms for centuries, but have sharpened significantly in the last 200-300 years. Regional interests are as old as the settlements themselves. The Traditionalist vs Reformer split has grown more pronounced as some began questioning whether the old low-touch system still serves current needs. The Isolationist vs Interventionist debate has intensified as Lenthir's agricultural dominance makes them increasingly important to continental politics, forcing them to confront their traditional apathy toward foreign affairs. The timing of this sharpening corresponds with subtle cultural shifts that have made politics more contentious than in previous eras.
 
 **Which factions are allies and which are enemies?**
 
-_Answer:_
+No formal alliances exist between factions, but natural alignments occur:
+
+**Often Aligned**: Traditionalists and Isolationists frequently overlap, both wanting to maintain the status quo of local autonomy and minimal external involvement. Regional interests from rural agricultural areas tend to align with Traditionalists, wanting to preserve their independence from central authority.
+
+**Often Aligned**: Reformers and Interventionists often find common ground, both believing Lenthir needs to adapt and engage more actively. Greendale's merchant interests naturally lean Interventionist and somewhat Reformist (wanting better infrastructure for trade).
+
+**Tension Points**: The Graymarch garrison leans Reformist (wanting more centralized military funding) but Isolationist (focused on border defense, not foreign entanglements). Rural Traditionalists clash with urban Reformers over centralization. Isolationists view Interventionists as dangerous idealists, while Interventionists see Isolationists as burying their heads in the sand.
+
+None of these are true enemies yet, just competing visions for the kingdom's future.
 
 **Are there any potential new forces on the political scene?**
 
-_Answer:_
+Several emerging voices could reshape politics:
+
+**Agricultural Protectionists**: A growing movement arguing Lenthir should reduce grain exports and "protect our abundance." Led by wealthy landowners and some regional leaders, they claim other kingdoms take advantage of Lenthiri generosity. This faction has gained surprising influence in the last century, particularly around feast halls and among prosperous farmers who host elaborate gatherings. Their rhetoric about "valuing what we have" resonates with some citizens.
+
+**Military Expansionists**: Some officers at the Graymarch, frustrated by limited resources, argue for a larger standing army and more aggressive border policy. They're a minority but growing louder as orc raids from Gruz'Thok and Durmshaven persist.
+
+**Pan-Kingdom Movement**: Mostly intellectuals and young urban dwellers who believe the era of village autonomy is ending. They advocate for stronger central institutions, standardized laws, and unified kingdom identity. Still small but passionate.
+
+These groups are too new and disorganized, save for the Agricultural Protectionists, to be true factions yet, but could become significant forces.
 
 **How much influence do special interest groups (such as merchants, wizards, or religious sects) have on politics?**
 
-_Answer:_
+Moderate to significant influence depending on the group and location:
+
+**Merchant interests**: Strong influence in trade cities like Greendale, minimal in rural areas. They can sway local councils on trade policy and infrastructure but have little kingdom-wide power.
+
+**Horse breeders**: Considerable cultural influence. Great Horse breeders are respected voices in their communities. Their opinions on military matters, breeding regulations, and trade carry weight.
+
+**Agricultural landowners**: Growing influence, especially wealthy ones who host community gatherings and fund local projects. Their voices increasingly shape policy around exports and resource management.
+
+**Religious groups**: Moderate influence tied to agricultural life. The seasonal Alorama ([[Viridia, God of Spring]], [[Solana, God of Summer]]) are widely honored, [[Therion, God of Harvest]] is beloved and celebrated, and [[Drezzar, God of Famine]] and [[Morthar, Bringer of Pestilence]] are propitiated out of fear. Religious leaders don't directly control policy, but harvest festivals, planting rituals, and appeasement ceremonies shape the agricultural calendar and community decisions. Ignoring religious customs around planting or harvest would be politically unwise for any local leader.
+
+**Wizards/Magical practitioners**: Almost no influence. So few mages live in Lenthir that they're not a political force. The external magical enforcement contractors have no political involvement.
 
 **How do interest groups exercise their influence?**
 
-_Answer:_
+**Merchants**: Control purse strings in trade cities. They fund local infrastructure projects in exchange for favorable trade policies, sponsor festivals and public works to gain goodwill, and threaten to move operations if regulations become too burdensome. In Greendale, wealthy merchant families essentially control the local council through economic leverage.
+
+**Horse breeders**: Influence through reputation and expertise. When councils debate military preparedness or trade agreements involving horses, breeders are consulted as authorities. Their word carries weight on matters of animal husbandry and cavalry tactics. Great Horse breeders host gatherings where informal political discussions happen.
+
+**Agricultural landowners**: Host elaborate feasts and community gatherings where they subtly shape opinion. They fund local projects (wells, roads, granaries) to build loyalty. The wealthiest sponsor religious festivals dedicated to [[Therion, God of Harvest]] or [[Solana, God of Summer]], positioning themselves as community pillars. Their "generosity" creates obligation.
+
+**Religious leaders**: Shape the agricultural calendar, which is the rhythm of Lenthiri life. Declaring a feast day for [[Therion, God of Harvest]] or calling for appeasement rituals to ward off [[Drezzar, God of Famine]] affects when work happens and community priorities. Religious festivals are when major community decisions are often made.
 
 **What political positions are considered conservative?**
 
-_Answer:_
+**Strong Local Autonomy**: Belief that the current system of village self-governance is sacred and should never be centralized. Opposition to any kingdom-level standardization of laws or practices.
+
+**Low Taxation**: Maintaining the minimal tax burden on settlements. Any proposal to increase kingdom levies is viewed as government overreach.
+
+**Agricultural Protectionism**: The emerging position that Lenthir should reduce grain exports to "protect our own." This is becoming mainstream conservative thought, especially among wealthy landowners.
+
+**Traditional Religious Observance**: Strict adherence to seasonal festivals for the Alorama and proper appeasement of [[Drezzar, God of Famine]] and [[Morthar, Bringer of Pestilence]]. Skepticism toward new religious movements or foreign faiths.
+
+**Isolationism**: The belief that Lenthir should avoid foreign entanglements beyond necessary trade with Vanguard Reach. Continental politics are seen as none of Lenthir's concern.
+
+**Hereditary Land Rights**: Strong protection of family farmsteads and opposition to land redistribution or communal ownership experiments.
 
 **What political positions are considered liberal?**
 
-_Answer:_
+**Centralized Infrastructure**: Belief that the kingdom needs unified road systems, standardized postal service, and coordinated disaster response that only central government can provide efficiently.
+
+**Kingdom-Wide Legal Standards**: Advocating for standardized laws across settlements, particularly regarding criminal justice, property rights, and contract enforcement. The current patchwork system is seen as chaotic.
+
+**Active Foreign Policy**: Using Lenthir's agricultural power to gain diplomatic leverage and stronger alliances. Engaging actively in continental politics rather than passive neutrality.
+
+**Expanded Military**: Increasing the standing army beyond the Graymarch garrison, with permanent forces stationed throughout the kingdom for security and rapid disaster response.
+
+**Universal Education**: Kingdom-funded schools in every settlement rather than leaving education to families and local resources.
+
+**Progressive Taxation**: Wealthier settlements and landowners should pay proportionally more to fund kingdom services that benefit everyone.
+
+**Religious Pluralism**: Welcoming faiths from other kingdoms and reducing the emphasis on traditional agricultural deities in public life.
 
 **Are there political positions that are unthinkable?**
 
-_Answer:_
+**Abolishing the Monarchy**: Even though the monarchy is low-touch, it's a fundamental institution. Eliminating it entirely would be seen as severing ties to Lenthir's founding and identity.
+
+**Ending Local Elections**: Completely abolishing village autonomy and local self-governance would violate the core principle upon which Lenthir was built. Even reformers want coordination, not dictatorship.
+
+**Selling Farmland to Foreign Powers**: Allowing other kingdoms to own Lenthiri agricultural land would be seen as betrayal. The land belongs to those who work it.
+
+**Abandoning the Graymarch**: Leaving the southern border undefended and allowing Gruz'Thok and Durmshaven raiders free access would be unthinkable cowardice.
+
+**Banning Traditional Agricultural Worship**: Prohibiting worship of [[Therion, God of Harvest]] or the seasonal Alorama would attack Lenthiri identity itself. Even non-religious citizens would oppose this.
+
+**Forced Urbanization**: Any policy that would force farmers off their land to concentrate population in cities would be seen as destroying what makes Lenthir itself.
 
 **Are there any shaky political alliances between disparate groups?**
 
-_Answer:_
+**Traditionalists and Agricultural Protectionists**: An uneasy alliance. Traditional farmers value the old ways of generosity and sharing, but wealthy landowners pushing protectionism claim they're defending "traditional abundance." Many traditionalists are uncomfortable with the hoarding rhetoric but align on maintaining autonomy from central interference.
+
+**Reformers and Greendale Merchants**: Merchants want better infrastructure and standardized trade laws (reformist goals), but they oppose the taxation increases reformers need to fund these improvements. They cooperate when convenient, clash over who pays.
+
+**Isolationists and the Graymarch Garrison**: The garrison wants more military funding (reformist position requiring central coordination), but they're isolationist regarding foreign wars. They clash with reformers over priorities but align with isolationists on avoiding foreign entanglements.
+
+**Religious Traditionalists and Progressive Farmers**: Young farmers experimenting with new techniques still honor [[Therion, God of Harvest]] and traditional festivals, creating common ground with religious leaders despite disagreeing on other social issues.
 
 **Why were the current alliances formed?**
 
-_Answer:_
+**Traditionalists and Agricultural Protectionists**: Formed from shared opposition to reformist centralizing efforts. Traditionalists initially allied with protectionists because both groups wanted to preserve local control. The protectionists cleverly framed their hoarding agenda as "protecting traditional ways" and "valuing what our ancestors built," which resonated with conservative sentiments.
+
+**Reformers and Greendale Merchants**: Formed from mutual frustration with inefficient systems. Merchants need reliable roads and standardized contracts to expand trade. Reformers need merchant wealth and practical examples of why coordination matters. The alliance is transactional, based on overlapping immediate goals rather than shared philosophy.
+
+**Isolationists and the Graymarch Garrison**: United by focus on Lenthir's borders rather than continental politics. The garrison doesn't want resources diverted to foreign adventures when they need troops and supplies for defending against Gruz'Thok and Durmshaven. Isolationists see the garrison as proof that Lenthir's only external concern should be immediate threats, not distant alliances.
+
+**Religious Traditionalists and Progressive Farmers**: Both groups center their lives around agricultural success. Progressive techniques require divine blessing to be truly trusted, and religious leaders recognize that innovation that increases yields honors [[Therion, God of Harvest]] just as much as old methods. Shared reverence for the land creates common ground despite methodological differences.
 
 **How long before current alliances fall apart, and, when they do, what will the effects be?**
 
-_Answer:_
+**Traditionalists and Agricultural Protectionists** (Most Vulnerable - 10-20 years): This alliance is already straining as protectionist rhetoric grows more extreme. True traditionalists remember when Lenthir's identity was generosity, not hoarding. As wealthy landowners push for stricter export limits and more elaborate feasts while others go hungry, the contradiction will become undeniable. When this breaks: Rural communities will split between genuine traditionalists and the newly wealthy protectionist faction. Social cohesion will fracture along class lines for the first time in Lenthiri history.
+
+**Reformers and Greendale Merchants** (Moderately Stable - 20-50 years): This alliance survives as long as both sides get something. It breaks when reformers actually try to implement the taxes needed to fund their plans. When this breaks: Reform movement loses its economic base. Infrastructure improvements stall. Greendale may attempt to operate independently, worsening regional divisions.
+
+**Isolationists and Graymarch Garrison** (Stable Unless Crisis - Could break suddenly): Holds together until a major external threat forces the question of continental intervention. If Vanguard Reach calls for military aid or raids escalate dramatically, the garrison may choose survival over isolationist principles. When this breaks: Could drag Lenthir into foreign conflicts. Isolationist movement would view this as betrayal, potentially leading to civil unrest.
+
+**Religious Traditionalists and Progressive Farmers** (Most Stable - 50+ years): Unified by genuine shared values around agricultural success and reverence for the land. Only breaks if religious authorities start opposing all innovation or if progressives abandon traditional worship entirely, neither of which seems likely.
 
 **What ancient rivalries and hatreds still affect current attitudes and political positions?**
 
-_Answer:_
+**The Orc Question** (Centuries Old): Deep-seated distrust of Gruz'Thok and Durmshaven tribes. Generations of raids have created cultural assumption that orcs are irredeemable raiders. This affects southern border policy and military spending debates. Any suggestion of negotiating with orc tribes is political suicide, though pragmatists quietly note the raids have patterns and might be survivable rather than conquerable.
+
+**The Great Hoarding** (600 years ago): A severe drought led some wealthy landowners to hoard grain while others starved. The memory of this betrayal still echoes in debates about export policy and resource management. Families who hoarded are remembered, though not openly condemned. This historical wound makes current protectionist rhetoric especially toxic to older families who recall the tales.
+
+**The Greenfell Incident** (300 years ago): Lenthir once called on the Greenfell for aid during a famine, and the halflings refused. This created lingering resentment that affects relations even today. Many Lenthiri see halfling isolationism as proof that relying on neighbors is foolish, strengthening isolationist arguments.
+
+**Regional Rivalries**: Ancient disputes between eastern and western settlements over water rights and grazing lands. Though legally resolved, these color current debates about resource allocation and infrastructure priorities. Eastern settlements remember western "theft" of river access; western settlements remember eastern "monopolization" of best grazing lands.
+
+None of these are active hatreds requiring blood vengeance (not Lenthir's style), but they're historical touchstones that politicians reference to support modern positions.
 
 **Are magicians a force in politics?**
 
-_Answer:_
+No
 
 **Are there national politics that revolve around magic or wizards?**
 
-_Answer:_
+No
 
 ---
 

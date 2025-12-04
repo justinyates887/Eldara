@@ -1,3 +1,5 @@
+#Campaign/Lore 
+Based on [[Session 1 Summary]]
 ## Chapter 1: The Festival's End
 
 A brisk fall wind danced through the air as the sun hung lower in the sky, the sundered descent of winter darkness creeping upon the shortening days. Golden rays danced across fields of wheat and corn while the sweet, nostalgic smell of decay and wood smoke hung in the air.

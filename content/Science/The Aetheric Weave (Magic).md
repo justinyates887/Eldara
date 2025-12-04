@@ -1,3 +1,4 @@
+#Physics #Science #Nature
 ## The Origin and Nature of Magic
 
 Magic in the world was born from the Ethyri, the two prime creators of the universe: [[Almariel, Lady of Light]], and [[Vorthar, the Dark Weaver]]. In their act of creating the cosmos, they infused the universe with their life essence. When their children, the Aevari, joined in creation, they too poured their own divine energy into the planes. This infusion created what is known as the **Aetheric Weave**, a finite network of life force that flows invisibly through all existence. Magic is the manipulation of this Weave.
