@@ -661,139 +661,224 @@ No
 
 **Which peoples, countries, and races have been in conflict with this nation in the recent past?**
 
-_Answer:_
+The orc tribes of Gruz'Thok and Durmshaven have been in ongoing low-level conflict with Lenthir for centuries through persistent raiding on the southern border. Occasional skirmishes with nomads from Sandgrave, though these are rare and usually over water rights or grazing territory rather than conquest. No formal wars with other kingdoms in recent memory.
 
 **What caused recent conflicts?**
 
-_Answer:_
+Orc raids are driven by resource scarcity in their territories and cultural traditions of raiding as a rite of passage. The raids target livestock, stored grain, and occasionally captives. Sandgrave conflicts arise from competing claims over borderland resources during drought years. These are survival-driven conflicts, not ideological or territorial conquest.
 
 **When was the last war and what was it about?**
 
-_Answer:_
+The last true war involving Lenthir was during the **[[War of Five Kingdoms]]** in the First Era (Era of Chaos), over 5,000 years ago. Specifically, Lenthir became entangled in the **[[War of Succession in Verdant Reach]]** around year 1863 of that era.
+
+During the Second Era (Era of Conflict), Lenthir faced the threat of renewed warfare as rising tensions between religious factions supporting different divine pantheons threatened both internal strife and external conflicts. The competing influences of the Alorama and the Nyx created ideological divisions that nearly erupted into open warfare between kingdoms and within them. The establishment of [[the Covenant of Divine Order]] prevented this catastrophe.
+
+Since the establishment of [[the Covenant of Divine Order]] in the Second Era, Lenthir has not fought in a formal kingdom-level war. The last 4,000 years of the Third Era have seen only ongoing low-level orc raids from Gruz'Thok and Durmshaven, and occasional skirmishes with Sandgrave nomads.
 
 **Who won the last war?**
 
-_Answer:_
+No one truly won the War of Five Kingdoms. The conflict devastated all human kingdoms and contributed to the near-extinction of humanity that ended the First Era. The religious tensions of the Second Era were resolved through diplomacy and the Covenant system before erupting into full warfare, representing a victory for institutional cooperation over violence. The lessons of both eras are why the Covenant was established and why kingdoms have maintained peace for millennia since.
 
 **Are there ongoing tensions from the most recent war?**
 
-_Answer:_
+No direct tensions from the ancient War of Five Kingdoms remain after 5,000+ years. However, the cultural memory of that devastation shapes Lenthir's political attitudes: deep commitment to the alliance with Vanguard Reach (forged in shared recovery), institutional reluctance toward kingdom-level conflicts, and the understanding that cooperation prevented another catastrophe. The only ongoing military tensions are the persistent orc raids, which are manageable nuisances rather than existential threats.
 
 **What major weapons of war are available?**
 
-_Answer:_
+Lenthiri forces primarily use cavalry weapons: lances, sabers, composite bows designed for mounted archery. Infantry carry spears, short swords, and shields. Crossbows are used at the Graymarch for defensive positions. Vanguard Reach provides quality steel weapons through trade. No siege engines or artillery - cavalry warfare doesn't require them. Very limited magical weapons due to scarcity of mages.
 
 **How much has the presence of magic affected strategy and tactics?**
 
-_Answer:_
+Minimally. Lenthir has so little magical capability that commanders don't plan around it. The assumption is that magic won't be available, so tactics rely on mobility, terrain, and superior horsemanship. When facing enemies with magic (rare), Lenthiri forces rely on speed and dispersal to minimize magical attack effectiveness.
 
 **Do army commanders have to use specific formations or techniques to deal with possible magical attacks?**
 
-_Answer:_
+Lenthiri commanders have limited experience with magical threats since they face mainly non-magical orc raiders. Basic anti-magic tactics include: dispersed cavalry formations to minimize area-effect spell impact, rapid mobility to avoid becoming stationary targets, using terrain (hills, forests) to break line-of-sight for targeted spells. At the Graymarch, fortifications include areas blessed by contracted mages to resist magical assault, but these are static defenses. In open battle, Lenthiri cavalry relies on speed and numbers to overwhelm enemy mages before they can cast effectively. This works against orc shamans with limited magical training but would be less effective against trained battle-mages from other kingdoms.
 
 **How can magic be used as part of a battle plan?**
 
-_Answer:_
+Lenthir has limited but significant magical capability through divine rather than arcane means:
+
+**[[Clerics]]**: Priests of [[Therion, God of Harvest]] and the seasonal Alorama ([[Viridia, God of Spring]], [[Solana, God of Summer]], [[Caelith, God of Winter]]) serve in military units, providing healing, blessings, and divine protection. They're most effective supporting defensive operations and bolstering morale. Some clerics also perform appeasement rituals to [[Drezzar, God of Famine]] and [[Morthar, Bringer of Pestilence]] to ward off divine misfortune during campaigns.
+
+**[[Druids]]**: Natural guardians who protect Lenthir's agricultural lands work with military forces when defending farmland from raiders. They can call upon natural allies, manipulate terrain, and use weather magic. Particularly valuable against orc raiders who often use fire.
+
+**[[Paladins]]**: Holy warriors sworn to protect the harvest and the people are the closest thing Lenthir has to magical cavalry. Small orders of mounted paladins serve at the Graymarch and in border defense, combining cavalry tactics with divine smiting power.
+
+However, Lenthir has almost no arcane spellcasters (wizards, sorcerers). Battle plans rely on divine magic for support and healing rather than offensive magical firepower. The contracted enforcement mages from Aelarion or Ithilvaeth might assist in extreme emergencies but are expensive and rarely involved in military operations.
 
 **How are armies usually structured?**
 
-_Answer:_
+Lenthir's military has two distinct structures:
+
+**The Standing Army (Graymarch Garrison)**: Formally organized with clear ranks and permanent structure. Approximately 300-500 professional soldiers including cavalry units, infantry, archers, and support staff. Led by the Marshal of the Graymarch who reports directly to the monarch. Includes small dedicated units of clerics, druids, and paladins. This force is always maintained and ready.
+
+**Conscripted Forces (Wartime)**: When larger armies are needed, each settlement provides troops based on their census records. These forces are organized by origin, with each city or village forming its own company under a locally-chosen captain. The structure is more confederation than unified army - groups of village militias coordinated loosely rather than integrated battalions. Local leaders maintain command of their own people.
+
+**Cavalry Focus**: Both structures emphasize mounted units. Even infantry companies typically have mounted scouts and messengers. The pride of any Lenthiri force is its cavalry, especially units mounted on Great Horses.
+
+**Divine Support**: Clerics, druids, and paladins are integrated throughout both structures, typically one per company for conscripted forces, higher concentration in the professional garrison.
 
 **Are command structures formal and independent or is everybody officially under the command of the lord who brought them to army?**
 
-_Answer:_
+**Standing Army**: Formal and independent. The Marshal of the Graymarch has clear authority regardless of nobles' preferences. Rank determines command, not birth or wealth. Officers are promoted based on competence and experience.
+
+**Conscripted Forces**: Hybrid system. Each settlement's troops remain under their local captain, who takes orders from whoever brought them (village elder, city council representative, regional lord). These captains then coordinate with the Marshal or appointed supreme commander. Local leaders maintain authority over their own people but are expected to follow the overall battle plan.
+
+In practice, this creates tension. Professional officers at the Graymarch want unified command. Local leaders resist giving up authority over "their" troops. Successful campaigns require diplomatic compromise between formal military hierarchy and local autonomy. The monarch can impose unified command in declared emergencies, but this is politically sensitive and rarely invoked.
+
+The system reflects Lenthir's fundamental tension between central coordination and local autonomy, even in military matters.
 
 **If there is a formal structure, what are the various ranks and titles?**
 
-_Answer:_
+**Standing Army (Graymarch Garrison):**
+
+- **Marshal of the Graymarch**: Supreme commander, appointed by the monarch
+- **Captain-Commander**: Second-in-command, oversees daily operations
+- **Cavalry Captain / Infantry Captain**: Lead specific mounted or foot companies
+- **Rider-Lieutenant**: Junior cavalry officers (Lenthiri term for lieutenant in mounted units)
+- **Shield-Lieutenant**: Junior infantry officers
+- **Horsemaster-Sergeant**: Senior cavalry NCOs, responsible for both troops and horses
+- **Sergeant-of-Arms**: Senior infantry NCOs
+- **Lancer / Trooper**: Professional cavalry soldiers
+- **Man-at-Arms**: Professional infantry soldiers
+
+**Conscripted Forces:**
+
+Ranks vary by settlement. Common titles include:
+
+- **Company Captain**: Leads a settlement's contingent
+- **Squadleader**: Leads smaller units within the company (usually 10-20 soldiers)
+- **Militia**: Common soldiers
+
+**Divine Specialists:**
+
+- **Battle-Priest / War-Cleric**: Senior clerics attached to units
+- **Oath-Knight**: Paladins (often use their order's titles rather than military ranks)
+
+Druids are rare and unreliable in the army, and thus don't have a specific title.
+
+The professional ranks use practical, descriptive titles reflecting Lenthir's cavalry culture and no-nonsense approach.
 
 **Who can call up an army?**
 
-_Answer:_
+The **monarch** has the authority to call up a full kingdom-wide army in times of declared war or emergency. This requires formal proclamation and activates the census records.
+
+The **Marshal of the Graymarch** can call up troops from southern settlements for border defense without royal approval, but only from the immediate region and only for defensive purposes.
+
+**Local leaders** (city councils, village elders) can call up their own local militias for immediate defense of their settlement, but cannot compel other settlements to join them or march beyond their own territory without royal authorization.
+
+In practice, calling up the full army is rare and politically difficult. It disrupts the agricultural cycle, requires settlements to provide soldiers they need for their own protection, and triggers debates about who pays for the campaign. The last full call-up was during the religious tensions of the Second Era over 4,000 years ago.
 
 **How are the ranks filled in times of need?**
 
-_Answer:_
+Through conscription based on census records. Each settlement provides soldiers proportional to their population. Able-bodied adults are expected to serve when called, though farmers during critical planting/harvest seasons may be deferred. Settlements choose how to select their troops - some use rotation, others take volunteers first, some use lottery systems. The wealthy can sometimes pay substitutes, though this is frowned upon. Officers come from local leadership (experienced hunters, watch captains, respected warriors).
 
 **Are there professional soldiers and mercenaries?**
 
-_Answer:_
+Professional soldiers exist only in the Graymarch garrison (300-500 troops) and the [[Royal Riders]] (20-30 elite bodyguards). Mercenaries are rare in Lenthir - the practical culture views selling one's sword as dishonorable, and there's little demand since major wars are uncommon. Foreign mercenaries occasionally pass through but find little employment.
 
 **Is a career in the army possible, or would one have to be a mercenary in order to make a living as a soldier?**
 
-_Answer:_
+Very limited career path. The Graymarch garrison and Royal Riders are the only permanent military positions. Competition is fierce and positions are held for life. Most soldiers serve their conscription term and return to farming. Veterans respected but not financially supported beyond their service. Some become local militia trainers or security guards, but these aren't military careers proper.
 
 **Does the army accept volunteers?**
 
-_Answer:_
+Yes, enthusiastically. Volunteers are preferred over reluctant conscripts. Young people seeking glory, second sons with no inheritance, those wanting to prove themselves - all can volunteer for either the professional garrison (if positions open) or to fill their settlement's conscription quota. Settlements that provide volunteers rather than forcing conscripts are viewed more favorably.
 
 **How large is a typical army?**
 
-_Answer:_
+**Standing Force**: 300-500 at the Graymarch, plus 20-30 Royal Riders. Total professional military around 400-550.
+
+**Full Conscription**: In declared war, Lenthir could theoretically field 10,000-15,000 troops based on population, but this would cripple agriculture. Realistic sustainable army: 3,000-5,000 for extended campaigns. Most conflicts use far fewer - border raids might involve 200-500 troops.
 
 **In an army, what percentage of the soldiers will be trained and what portion will be untrained recruits?**
 
-_Answer:_
+**Professional Garrison**: 100% trained, experienced soldiers.
+
+**Conscripted Army**: Perhaps 10-20% have relevant skills (hunters, militia members familiar with weapons and riding). The remaining 80-90% are farmers who can ride and may own weapons but have no military training whatsoever. The lack of warfare for millennia means no training infrastructure exists.
 
 **Are recruits and conscripts given training, or are they expected to learn on the battlefield?**
 
-_Answer:_
+Expected to learn on the battlefield or from veterans in their units. No formal training programs exist because Lenthir hasn't needed them. The Graymarch garrison trains its own replacements through apprenticeship, but conscripted forces would simply be handed weapons and expected to follow orders. This is a critical weakness that would be exposed in any real war - but since there hasn't been one in 5,000+ years, the problem remains theoretical.
 
 **How is the army supplied?**
 
-_Answer:_
+**Graymarch Garrison**: Supplied by the kingdom's emergency stockpiles and regular shipments of grain, preserved foods, and equipment from nearby settlements. The Steward of the Granaries coordinates this. Horses are bred and trained locally or acquired from regional breeders.
+
+**Conscripted Forces**: Each settlement provides supplies for their own troops - food, weapons, horses, basic equipment. No centralized supply system exists for large armies. In theory, the kingdom would coordinate logistics, but without recent wars, these systems are untested and likely inadequate.
 
 **Are soldiers allowed to live off the land and peasantry, or do they pay for what they take?**
 
-_Answer:_
+Lenthiri soldiers are expected to pay for what they take from civilians, even during campaigns. The agricultural culture makes theft of food especially taboo. In practice, during border defense, settlements willingly provide for troops protecting them. The Graymarch garrison has arrangements with nearby farms for regular supply. Looting civilian populations would be viewed as dishonorable and contrary to what soldiers are fighting to protect.
 
 **How are supplies handled during long campaigns?**
 
-_Answer:_
+Poorly. Lenthir has no experience with sustained campaigns beyond the Graymarch garrison's established supply lines. In theory, supply trains would follow armies, but logistics planning is theoretical rather than practical. This is another major weakness masked by millennia of peace.
 
 **How many days worth of supplies can the army haul along with them?**
 
-_Answer:_
+Cavalry-focused forces travel light - perhaps 3-5 days of food for soldiers, assuming they can forage or resupply from friendly settlements. Horse feed is the limiting factor. The Graymarch garrison maintains larger reserves but expects regular resupply. Any extended campaign would require establishing supply lines, something Lenthir has no modern experience doing.
 
 **What are the accepted conventions for making war (examples: only fight in winter when nobody is busy with crops; don't make war on civilians; only certain kinds of weapons are used)?**
 
-_Answer:_
+**Agricultural Calendar**: War during planting or harvest seasons is considered barbaric and self-destructive. Fighting happens in late autumn/winter/early spring when farmwork is minimal. This is practical necessity, not mere convention.
+
+**Civilian Protection**: Targeting civilians, burning crops, or poisoning wells is deeply taboo. The agricultural culture views such acts as attacks on civilization itself. Even orc raiders mostly target livestock and stored goods, not people.
+
+**Honorable Combat**: Single combat between champions to settle disputes is respected though rare. Ambushes and night attacks are tactically sound but considered less honorable than open battle.
+
+**Surrender Terms**: Enemies who surrender are treated well, ransomed if valuable, or allowed to return home. The practical culture sees no point in pointless killing.
 
 **Do the accepted conventions vary by race or region?**
 
-_Answer:_
+Gruz'Thok and Durmshaven orcs follow different conventions - they raid year-round when desperate, take captives, and view honor differently. This is why they're seen as uncivilized threats rather than honorable enemies. Sandgrave nomads have their own honor codes around water rights and grazing territory. Lenthir's conventions are shared generally with Vanguard Reach and other human kingdoms due to shared agricultural culture.
 
 **How does the presence of non-humans affect strategy, tactics, and battles?**
 
-_Answer:_
+**Against Orcs**: Orcs are physically stronger and more resilient. Lenthiri tactics emphasize mobility and range - cavalry charges to break formations, mounted archery to wear them down from distance, avoid prolonged melee. Use superior horses and coordination to offset individual orc strength.
+
+**Theoretical (Other Races)**: Elven archers would outrange Lenthiri cavalry. Dwarven heavy infantry would be nearly impossible to break with charges. These are theoretical concerns - no wars with other races in millennia.
 
 **Are special weapons required if an army is facing certain kinds of non-human armies?**
 
-_Answer:_
+Against orcs: Longer spears and lances to engage before they close to melee range. Heavy crossbows at the Graymarch to penetrate thick hide and crude armor. Fire arrows to deny them cover in raids. Nothing exotic or magical required, just practical adaptations.
 
 **How would non-human soldiers turn their physical differences from humans to their advantage?**
 
-_Answer:_
+**Orcs**: Use superior strength in close combat, intimidating charges, ability to carry heavier weapons and armor. Can fight longer without tiring. Break Lenthiri formations through brute force if they close distance.
+
+**Theoretical - Elves**: Superior archery, better night vision, enhanced agility. Would harass Lenthiri cavalry from range and use terrain (forests) where horses struggle.
+
+**Theoretical - Dwarves**: Unbreakable infantry formations, superior endurance, better equipment. Would force cavalry to dismount and fight on dwarf terms, negating Lenthir's mobility advantage.
+
+**Theoretical - Halflings**: Would avoid direct confrontation entirely, use stealth, ambushes, knowledge of terrain. Make occupation impossible through guerrilla tactics.
 
 **Are particular non-human races traditionally better with certain weapons? If so, why?**
 
-_Answer:_
+From historical knowledge and cultural memory: Elves excel with bows (patience, precision, enhanced vision). Dwarves master axes and hammers (mining culture, upper body strength, close-quarters). Orcs favor heavy weapons requiring strength (clubs, great axes).
 
 **Are particular human groups traditionally better with certain weapons, and if so, why?**
 
-_Answer:_
+**Lenthiri**: Cavalry weapons (lances, sabers, mounted archery). Generations of horse culture and plains warfare.
+
+**Vanguard Reach**: All weapons, especially heavy infantry gear. Their martial culture and forge tradition.
+
+**Others vary** by culture and geography, though Lenthir knows less about distant kingdoms' specialties.
 
 **How do the weapons of this country compare with those of surrounding nations?**
 
-_Answer:_
+Lenthir imports most quality metalwork from Vanguard Reach and Ironveil. Lenthiri weapons are serviceable but not exceptional - functional farmer's tools and basic military gear. Vanguard Reach's forges produce superior steel. Lenthir's advantage is horses, not weapons. This dependency on imported arms is a strategic vulnerability that isolationists worry about.
 
 **Have there been recent innovations that may upset the balance of power?**
 
-_Answer:_
+None in Lenthir - the long peace means no military innovation. 
+
+Potential concerns: If other kingdoms developed magical weapons or better anti-cavalry tactics, Lenthir would be unprepared. If Vanguard Reach stopped exporting weapons, Lenthir would struggle. The Graymarch garrison tries to stay current with orc raiding tactics, but that's adaptation rather than innovation.
 
 **How much as the presence of magic affected military strategy and tactics in general?**
 
-_Answer:_
+Minimally for Lenthir specifically. They plan around having clerics and paladins for support but no offensive magic. Other kingdoms likely integrate magic more heavily - Aelarion certainly would, Vanguard Reach possibly. Lenthir's lack of magical capability is a known weakness, contributing to their reliance on the Vanguard Reach alliance. The religious tensions of the Second Era demonstrated how devastating magical warfare could be, which is why the Covenant restricts it.
 
 ---
 
@@ -809,63 +894,153 @@ _Answer:_
 
 **How accessible is this area?**
 
-_Answer:_
+Very accessible by land. The great plains have few natural barriers, allowing easy travel by horse and cart. Multiple roads connect settlements across the kingdom. Northern border with Vanguard Reach is open and well-traveled. Western approaches through [[Ferron's Reach]] are more difficult (mountain passes), limiting access from that direction. Southern border is accessible but dangerous due to orc raids.  Overall, Lenthir is easily reached and traversed by land travelers, making it a natural crossroads for continental trade.
 
 **What natural features mark the country's borders?**
 
-_Answer:_
+**North**: The northern border is defined by the [[Gloamwood Forest]] region ([[Brookshade]] area) and rivers, separating Lenthir from Vanguard Reach.
+
+**West**: **Ferron's Reach** mountains, the ocean, and a river that separates Lenthir from The Greenfell and Ironveil. These create a clear geographical boundary on the western side.
+
+**South**: The transition from fertile plains to the Dunes of Zimrath marks the southern border. The Graymarch fortress sits at this boundary, defending against the arid lands beyond.
+
+**East**: The Broken Spires and the edge of the plains transitioning toward Sandgrave and more arid eastern regions. Rivers and the [[Starlight Sea]] also define portions of the eastern boundary.
 
 **Why did people settle in this area in the first place?**
 
-_Answer:_
+The vast fertile plains were perfect for agriculture and animal husbandry. Early human settlers from Aelarion saw endless grasslands ideal for growing crops and raising horses. The relatively flat terrain made farming easier than mountainous or forested regions. Abundant wild horses could be domesticated. Rivers provided water for irrigation. The climate supported year-round agriculture with distinct growing seasons. The open land allowed communities to spread out and establish independent settlements while remaining connected. This was the ideal location for humans who wanted to develop agricultural expertise and horse culture.
 
 **Is the country in a strategic location, on a trade route, in a good place for a harbour, rich in minerals, good for farming?**
 
-_Answer:_
+**Strategic Location**: Centrally located on the continent for land trade but not coastal. Natural hub for north-south trade routes.
+
+**Trade Routes**: Yes - land routes connecting Vanguard Reach, Ironveil, Caernast, and more distant kingdoms pass through Lenthir. Greendale serves as a major trading center.
+
+**Harbour**: No major harbors exist, though there are a few seafaring villages in the remote reaches of the east and west coasts.
+
+**Minerals**: Poor. Limited mineral wealth - some stone from the Broken Spires, but nothing significant. Depends on imports from Ironveil and Vanguard Reach for metals.
+
+**Farming**: Exceptional. Some of the best agricultural land on the continent. This is Lenthir's primary strategic asset.
 
 **Have things changed much since people entered the area, or do people still depend on whatever brought them there in the first place?**
 
-_Answer:_
+Fundamentally unchanged. Lenthir remains an agricultural kingdom built on grain production and horse breeding, just as the original settlers envisioned 5,000+ years ago. The techniques have improved, settlements have grown into cities, but the core identity is identical - farmers and horse breeders living on the plains. If the original settlers returned, they'd recognize their descendants' way of life immediately. This continuity is a source of pride and also contributes to conservatism - "it's worked for five millennia, why change?"
 
 **How diverse is the population of this country?**
 
-_Answer:_
+Predominantly human (95%+). Small populations of other races in trade cities like Greendale - halflings from the Greenfell, dwarves from Ironveil conducting trade, occasional elves from Aelarion. The coastal villages might have slightly more diversity. Rural areas are almost entirely human. Cultural diversity within humans is also limited - shared agricultural lifestyle creates homogeneous culture. This lack of diversity reinforces isolationist tendencies and makes Lenthir less cosmopolitan than Aelarion or Caernast.
 
 **Are people immigrating to or emigrating from the country? Why?**
 
-_Answer:_
+**Immigration**: Minimal. Some traders settle in Greendale. Occasional refugees from orc raids in border regions. A few seeking agricultural opportunities. Lenthir doesn't actively encourage immigration and the rural, farming lifestyle doesn't attract many outsiders.
+
+**Emigration**: Also minimal. Most Lenthiri are satisfied with their lives. Some young people seeking adventure or magical education go to Aelarion or Vanguard Reach. Second sons with no land inheritance might seek opportunities elsewhere. Failed farmers might try their luck in other kingdoms. But overall, people stay - the land is good and life is stable.
 
 **How much of this country is farmland? Forest? Desert? Mountains? Plains? Swamp?**
 
-_Answer:_
+**Plains**: 75-80% of the kingdom. Vast open grasslands, most of which is either actively farmed or used for grazing.
+
+**Farmland**: Perhaps 60% of total area is actively cultivated fields. The rest is pasture, fallow land, or natural grassland.
+
+**Forest**: 5-%. Some forests in the northern regions and scattered woodlands near rivers and settlements. Not a heavily forested kingdom.
+
+**Mountains**: 5%. Ferron's Reach marks the western border, the Broken Spires in the east. These are boundary features rather than interior terrain.
+
+**Desert/Arid**: Minimal within borders, though southern regions near the Dunes of Zherim become drier and less fertile.
 
 **How much of this country is arable?**
 
-_Answer:_
+Approximately 70-75% of the land is arable. The plains have excellent soil, adequate rainfall, and good drainage. Only the mountainous regions (Ferron's Reach, Broken Spires), the driest southern areas, and the forests are unsuitable for farming. This exceptional arable percentage is Lenthir's greatest strength and why they feed the continent.
 
 **What are the primary crops?**
 
-_Answer:_
+**Grains**: Wheat, barley, oats, rye. These dominate. Wheat is the most important.
+
+**Vegetables**: Cabbage, turnips, carrots, onions, beans, peas.
+
+**Legumes**: Lentils, chickpeas for soil enrichment and food.
+
+**Hay and fodder crops**: Alfalfa, clover for feeding the massive horse population.
+
+**Orchards**: Apples, pears in suitable areas, though fruit is secondary to grain.
+
+**Herbs**: Medicinal and culinary herbs in kitchen gardens.
+
+Grain is king - everything else is supplementary.
 
 **Which crops are any grown mainly for export or for trade?**
 
-_Answer:_
+**Wheat**: Primary export. Lenthir feeds much of the continent through wheat exports to Vanguard Reach, Caernast, Aelarion, and others.
+
+**Barley**: Also exported, especially to regions brewing beer or making bread.
+
+**Preserved foods**: Dried grains, preserved meats, travel rations packaged for long-distance trade.
+
+Most grain production exceeds domestic needs, making surplus the foundation of Lenthir's economy and political power. The growing protectionist movement wants to reduce these exports.
 
 **What crops can not be grown here because of the soil or climate?**
 
-_Answer:_
+**Tropical/Subtropical crops**: Citrus fruits, rice, sugar cane, cotton, spices. The temperate plains climate is too cold.
+
+**Cold-weather crops**: Nothing grows well in the southern arid zones.
+
+**Exotic imports**: Coffee, tea, chocolate, bananas don't grow in Lenthir at all.
+
+**Wine grapes**: Climate isn't ideal. Lenthir imports wine from other kingdoms.
+
+**Luxury crops**: Most specialty items come from elsewhere. Lenthir grows staples, not luxuries.
 
 **What water resources are available here, and for what uses?**
 
-_Answer:_
+**Rivers**: Multiple river systems cross the plains. Used for irrigation, drinking water, transportation of goods, powering mills. The map shows rivers running through the kingdom.
+
+**Wells**: Groundwater is accessible throughout most of the plains. Every settlement has wells for drinking water and livestock.
+
+**Rainfall**: Adequate and fairly reliable for growing crops without extensive irrigation. The plains receive enough natural precipitation.
+
+**Limited coastal access**: Small fishing villages on east and west coasts provide some seafood but this is minor compared to rivers.
+
+Water is generally abundant and reliable, contributing to agricultural success.
 
 **What wild animals live in this area? Are any of them potentially useful or dangerous to the population?**
 
-_Answer:_
+**Useful Wildlife:**
+
+- **Wild horses**: Still exist in remote grasslands, source of new breeding stock
+- **Deer and elk**: Hunted for meat and leather, especially in northern forests
+- **Rabbits and hares**: Common game animals
+- **Wild fowl**: Ducks, geese, pheasants provide supplementary food
+- **Fish**: In rivers and limited coastal waters
+
+**Dangerous Wildlife:**
+
+- **Wolves**: Prey on livestock, particularly in winter. Hunted aggressively
+- **Wild boar**: In forested areas, dangerous when cornered, damage crops
+- **Bears**: Rare, in Ferron's Reach and mountainous regions, occasionally raid settlements
+- **Large cats**: Mountain lions in the Broken Spires, rare but dangerous
+- **Poisonous snakes**: In grasslands and warmer southern regions
 
 **Which animals are commonly domesticated in this area?**
 
-_Answer:_
+**Horses**: The most important. Great Horses of Westhold are legendary, but all types of horses are bred - draft horses for plowing, riding horses, war horses.
+
+**Cattle**: For meat, leather, dairy, and draft labor. Essential to farming.
+
+**Sheep**: For wool, meat, leather. Graze on land unsuitable for crops.
+
+**Goats**: Hardy animals for marginal land, provide milk and meat.
+
+**Pigs**: Efficient meat production, fed on scraps and forest forage.
+
+**Chickens**: Eggs and meat, every farmstead has them.
+
+**Dogs**: Herding dogs, guard dogs, hunting dogs. Essential working animals.
+
+**Windcaller Hawks**: Specially bred and trained for carrying messages. Unique to Lenthir.
+
+**Cats**: Mousers in granaries and homes.
+
+Horses are culturally and economically dominant, but the full range of farm animals exists.
 
 ---
 

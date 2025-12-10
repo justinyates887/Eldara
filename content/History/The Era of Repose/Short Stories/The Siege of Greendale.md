@@ -6,7 +6,7 @@ A brisk fall wind danced through the air as the sun hung lower in the sky, the s
 
 The town of Greendale, a quaint agricultural and travel-through town located in the kingdom of Linthir, realm of the horse lords, was hosting the renowned annual Festival of Therion, celebrating the harvest. The festival was a major event for the town, driving traffic from several significant surrounding fiefdoms.
 
-Dwarves from the Ironfell traveled down to trade minerals and jewels. The elves of Lithrael made their journey through the deep, magical dark of the Gloamwood Forest to share magic, wisdom, and update accounts of human affairs. The halflings of the Greenfell sought barley and berry for their various meads and wines, of which they held a certain fondness. Various humans from the northern kingdom of the Vanguard sought provisions before the coming harsh winter.
+Dwarves from the Ironfell traveled down to trade minerals and jewels. The elves of Lithral made their journey through the deep, magical dark of the Gloamwood Forest to share magic, wisdom, and update accounts of human affairs. The halflings of the Greenfell sought barley and berry for their various meads and wines, of which they held a certain fondness. Various humans from the northern kingdom of the Vanguard sought provisions before the coming harsh winter.
 
 For this week, Greendale transformed from a haphazard farming town into a roaring celebration. The scent of spiced cider and roasting meat filled the air as visitors wove between festival stalls. Dwarven hammers rang against metal in rhythmic demonstrations, while elven silk caught the afternoon light. Halfling laughter mingled with the clip-clop of horse hooves on cobblestone, as merchants hawked their wares in a dozen different accents.
 
