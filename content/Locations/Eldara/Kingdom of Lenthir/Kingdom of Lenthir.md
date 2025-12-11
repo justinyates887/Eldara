@@ -91,7 +91,7 @@ These four positions, along with a handful of clerks and messengers, constitute 
 
 **Are offices hereditary, elected, or appointed?**
 
-_Answer:_ All offices other than the monarch are held via popular vote. It is a long standing tradition, held in the very values of the constitution of Lenthir brought forth by the first kings, that the ruling monarch have no influence in his cabinetry elections.
+_Answer:_ All administrative offices (Marshal, Keeper of Records, Herald, Steward) are filled via popular vote. Judicial positions work differently: the monarch appoints high court judges from candidates nominated by legal guilds and local councils. Local judges in villages and towns are elected directly by their communities. It is a long standing tradition, held in the very values of the constitution of Lenthir brought forth by the first kings, that the ruling monarch have no influence in his cabinetry elections.
 
 **Can a government office be a career choice?**
 
@@ -212,7 +212,7 @@ Relatively uncommon. Since coins are valued by metal content rather than face va
 
 Exports: Grain, Great Horses, preserved foods, leather goods, wool. 
 
-Imports: Worked metal goods, labor, and weapons from Vanguard Reach, luxury items and magical supplies from Aelarion, finished manufactured goods from Caernast, stone and metalwork from Khalgrod Deep.
+Imports: Worked metal goods, labor, and weapons from Vanguard Reach, luxury items and magical supplies from Aelarion, finished manufactured goods from Caernast, stone and metalwork from Ironveil.
 
 **How important is trade to the economy?**
 
@@ -538,6 +538,8 @@ Several emerging voices could reshape politics:
 
 These groups are too new and disorganized, save for the Agricultural Protectionists, to be true factions yet, but could become significant forces.
 
+The Agricultural Protectionist movement has deeper roots than the others. For centuries, concerns about over-exporting grain surfaced during particularly lean harvests, only to fade when abundance returned. What changed in the last century is the movement's organization and intensity. Where previous generations discussed export limits pragmatically during crises, modern Protectionists frame it as permanent philosophy. The movement's recent success comes from wealthy landowners who host increasingly lavish feasts while preaching scarcity, creating a peculiar contradiction that somehow resonates.
+
 **How much influence do special interest groups (such as merchants, wizards, or religious sects) have on politics?**
 
 Moderate to significant influence depending on the group and location:
@@ -550,7 +552,7 @@ Moderate to significant influence depending on the group and location:
 
 **Religious groups**: Moderate influence tied to agricultural life. The seasonal Alorama ([[Viridia, God of Spring]], [[Solana, God of Summer]]) are widely honored, [[Therion, God of Harvest]] is beloved and celebrated, and [[Drezzar, God of Famine]] and [[Morthar, Bringer of Pestilence]] are propitiated out of fear. Religious leaders don't directly control policy, but harvest festivals, planting rituals, and appeasement ceremonies shape the agricultural calendar and community decisions. Ignoring religious customs around planting or harvest would be politically unwise for any local leader.
 
-**Wizards/Magical practitioners**: Almost no influence. So few mages live in Lenthir that they're not a political force. The external magical enforcement contractors have no political involvement.
+**Wizards/Magical practitioners**: Almost no influence. So few arcane mages live in Lenthir that they're not a political force. Divine practitioners (clerics, paladins, druids) have moderate influence through their religious roles but aren't politically organized as a magical class. The external magical enforcement contractors have no political involvement.
 
 **How do interest groups exercise their influence?**
 
@@ -670,7 +672,7 @@ Orc raids are driven by resource scarcity in their territories and cultural trad
 
 **When was the last war and what was it about?**
 
-The last true war involving Lenthir was during the **[[War of Five Kingdoms]]** in the First Era (Era of Chaos), over 5,000 years ago. Specifically, Lenthir became entangled in the **[[War of Succession in Verdant Reach]]** around year 1863 of that era.
+The last true war involving Lenthir was during the **[[War of Five Kingdoms]]** in the First Era (Era of Chaos), over 5,000 years ago. Specifically, Lenthir became entangled in the **War of Succession in Vanguard Reach** around year 1863 of that era.
 
 During the Second Era (Era of Conflict), Lenthir faced the threat of renewed warfare as rising tensions between religious factions supporting different divine pantheons threatened both internal strife and external conflicts. The competing influences of the Alorama and the Nyx created ideological divisions that nearly erupted into open warfare between kingdoms and within them. The establishment of [[the Covenant of Divine Order]] prevented this catastrophe.
 
@@ -769,7 +771,7 @@ The **Marshal of the Graymarch** can call up troops from southern settlements fo
 
 **Local leaders** (city councils, village elders) can call up their own local militias for immediate defense of their settlement, but cannot compel other settlements to join them or march beyond their own territory without royal authorization.
 
-In practice, calling up the full army is rare and politically difficult. It disrupts the agricultural cycle, requires settlements to provide soldiers they need for their own protection, and triggers debates about who pays for the campaign. The last full call-up was during the religious tensions of the Second Era over 4,000 years ago.
+In practice, calling up the full army is rare and politically difficult. It disrupts the agricultural cycle, requires settlements to provide soldiers they need for their own protection, and triggers debates about who pays for the campaign. The last genuine full mobilization was during the War of Five Kingdoms in the First Era. During the Second Era religious tensions, Lenthir prepared for mobilization but the Covenant was established before troops were actually called up, making it the largest near-mobilization in recent history.
 
 **How are the ranks filled in times of need?**
 
@@ -801,7 +803,9 @@ Yes, enthusiastically. Volunteers are preferred over reluctant conscripts. Young
 
 **Are recruits and conscripts given training, or are they expected to learn on the battlefield?**
 
-Expected to learn on the battlefield or from veterans in their units. No formal training programs exist because Lenthir hasn't needed them. The Graymarch garrison trains its own replacements through apprenticeship, but conscripted forces would simply be handed weapons and expected to follow orders. This is a critical weakness that would be exposed in any real war - but since there hasn't been one in 5,000+ years, the problem remains theoretical.
+Expected to learn on the battlefield or from veterans in their units. No formal military training programs exist because Lenthir hasn't needed them. Most combat skills are learned informally through family and community teaching - fathers teach sons to ride and fight, hunters share tracking techniques, village watches practice together during slow seasons.
+
+The Graymarch garrison trains its own replacements through apprenticeship, but conscripted forces would simply be handed weapons and expected to follow orders. This is a critical weakness that would be exposed in any real war - but since there hasn't been one in 5,000+ years, the problem remains theoretical.
 
 **How is the army supplied?**
 
@@ -903,7 +907,7 @@ Very accessible by land. The great plains have few natural barriers, allowing ea
 
 **West**: **Ferron's Reach** mountains, the ocean, and a river that separates Lenthir from The Greenfell and Ironveil. These create a clear geographical boundary on the western side.
 
-**South**: The transition from fertile plains to the Dunes of Zimrath marks the southern border. The Graymarch fortress sits at this boundary, defending against the arid lands beyond.
+**South**: The transition from fertile plains to the Dunes of Zherim marks the southern border. The Graymarch fortress sits at this boundary, defending against the arid lands beyond.
 
 **East**: The Broken Spires and the edge of the plains transitioning toward Sandgrave and more arid eastern regions. Rivers and the [[Starlight Sea]] also define portions of the eastern boundary.
 
@@ -943,7 +947,7 @@ Predominantly human (95%+). Small populations of other races in trade cities lik
 
 **Farmland**: Perhaps 60% of total area is actively cultivated fields. The rest is pasture, fallow land, or natural grassland.
 
-**Forest**: 5-%. Some forests in the northern regions and scattered woodlands near rivers and settlements. Not a heavily forested kingdom.
+**Forest**: 5%. Some forests in the northern regions and scattered woodlands near rivers and settlements. Not a heavily forested kingdom.
 
 **Mountains**: 5%. Ferron's Reach marks the western border, the Broken Spires in the east. These are boundary features rather than interior terrain.
 
@@ -1365,7 +1369,20 @@ For 99.9% of situations, conventional travel is superior in every practical dime
 
 **How fast can news get from one point to another?**
 
-_Answer:_
+**Within Lenthir:**
+
+- **Windcaller Hawk:** Same day for most kingdom destinations (up to ~160 miles). Weather dependent.
+- **Mounted messenger:** 50-70 miles per day on good roads with fresh horses. Can cross the kingdom (north to south) in 2-3 days.
+- **Merchant/traveler:** 20-30 miles per day, slower due to cargo. Kingdom crossing takes 5-8 days.
+- **Word of mouth:** Spreads through villages along routes at merchant pace.
+
+**Examples:**
+
+- Capital (central) to Greendale (north, ~80 miles): Hawk same day, urgent rider in 1-2 days, regular travel in 3-4 days
+- Capital to Graymarch (south, ~80 miles): Hawk same day, urgent rider in 1-2 days, regular travel in 3-4 days
+- Graymarch to northern Greendale region (~160 miles): Hawk in 1 day, urgent rider in 2-3 days, regular travel in 5-8 days
+
+**Cross-Kingdom:** Much slower. International news travels at merchant caravan pace unless kingdoms use magical communication.
 
 **Are there magical means of communication? How common and reliable are they? How expensive?**
 
@@ -1424,7 +1441,7 @@ Valuable hand-written objects:
 - Historical chronicles
 - Herbal and medical texts
 
-**Literacy:** Perhaps 20-30% literacy in cities, under 10% in rural areas. Most learning is oral, apprenticeship-based. Reading is specialized skill.
+**Literacy**: Perhaps 20-30% literacy in cities, under 10% in rural areas. However, most learning is oral and apprenticeship-based. Village governance operates through spoken debate at community gatherings where decisions are made collectively. Reading is a specialized skill, but political participation doesn't require it - citizens vote through show of hands, voice votes, or marking stones. Literate community members read official documents aloud at gatherings.
 
 **Cultural Attitude:** Books are treasured objects, often family heirlooms. Lending books is sign of deep trust. Damaging someone's book is serious offense.
 
