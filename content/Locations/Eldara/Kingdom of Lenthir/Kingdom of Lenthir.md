@@ -1,4 +1,5 @@
 #Campaign/Location 
+
 Pre-writing Notes:
 - Typical human/ag society
 - Barter, trade, and capitalist
@@ -1048,55 +1049,227 @@ Horses are culturally and economically dominant, but the full range of farm anim
 
 **Is magic legal in this country?**
 
-_Answer:_
+Yes, magic is legal in Lenthir, but heavily regulated under [[the Pact of the Ythraewyn]]. All practitioners must register with local authorities and comply with kingdom-wide conservation laws. The Pact's restrictions are enforced strictly, though Lenthir's practical culture means there's little temptation toward frivolous magic use anyway.
 
 **Is all magic legal, or only some types?**
 
-_Answer:_
+Legal magic includes:
+
+- Divine magic (clerics, paladins, druids) for healing, blessing crops, warding against threats
+- Certified wizards performing approved functions (study, teaching, law enforcement)
+- Registered sorcerers under supervision
+- Monk abilities (ki, largely unregulated)
+- Agricultural magic specifically approved for crop enhancement
+
+Illegal magic includes:
+
+- Mind control and enchantment magic (except licensed bards in specific circumstances)
+- Necromancy
+- Destructive magic without defensive justification
+- Any frivolous or recreational use
+- Unregistered practice
 
 **Do laws about magic vary widely from city to city, or are attitudes generally similar?**
 
-_Answer:_
+The Pact of the Ythraewyn establishes kingdom-wide standards that all settlements must follow. However, local interpretation varies:
+
+**Conservative rural areas**: Extremely strict. Some villages view even healing magic with suspicion, preferring traditional herbalism. Sorcerers face intense scrutiny. Local councils may impose additional restrictions beyond Pact requirements.
+
+**Trade cities like Greendale**: More pragmatic. Accept registered practitioners from other kingdoms, allow licensed magical services. Still enforce Pact but with less paranoia.
+
+**The Graymarch**: Actively welcomes military-trained clerics and paladins. Practical necessity of border defense overrides magical squeamishness.
+
+Core attitudes are similar (magic conservation, respect for divine power, distrust of arcane showmanship), but enforcement intensity varies.
 
 **How has the presence of magic and magicians affected law and government?**
 
-_Answer:_
+Minimally compared to more magical kingdoms. Lenthir's low-magic culture means:
+
+**Positive Effects:**
+
+- External enforcement contracts created diplomatic ties with Aelarion and Ithilvaeth
+- Divine magic from clerics of [[Therion, God of Harvest]] legitimizes agricultural policy
+- Pact enforcement provides rare instance of kingdom-wide standardization
+
+**Negative Effects:**
+
+- Sorcerer registration creates surveillance bureaucracy
+- Dependence on foreign magical enforcers is strategic vulnerability
+- Magical crimes require expensive external investigation
+- Government has limited capacity to monitor compliance independently
 
 **Are wizards barred from certain kinds of government posts?**
 
-_Answer:_
+No formal bars exist, but practical reality keeps wizards out of most positions:
+
+**Can serve as:** Advisors to the Marshal of the Graymarch on magical threats, liaisons to enforcement contractors, researchers at the Royal Agricultural Institute
+
+**Unlikely to serve as:** Local elected officials (communities prefer traditional farmers), Royal Riders (requires cavalry focus), tax collectors or administrators (no relevant skills)
+
+The issue is cultural rather than legal. Wizards are respected for expertise but not trusted with general governance. A wizard running for village council would be viewed as odd, not illegal.
 
 **Do some positions require that their holder be a wizard?**
 
-_Answer:_
+No. Lenthir deliberately avoids requiring magical ability for any government position. This reflects:
+
+- Commitment to non-magical governance
+- Shortage of qualified wizards
+- Cultural preference for practical expertise over arcane knowledge
+
+Even positions that deal with magic (like liaisons to enforcement contractors) don't require the holder to be a wizard, just knowledgeable about magical law.
 
 **What effect has magic had on law? On art? On technology? On entertainment?**
 
-_Answer:_
+**On Law:**
+
+- Pact of the Ythraewyn created entirely new legal category requiring enforcement infrastructure
+- Sorcerer registration laws
+- Magical crime definitions and penalties
+- Contracts with external enforcement agencies
+- Otherwise, minimal effect - most law deals with agriculture, property, and mundane crime
+
+**On Art:**
+
+- Very little. Lenthiri art is practical (pottery, weaving, woodcarving, songs). Magical enhancement forbidden as frivolous
+- Religious festivals may include blessed elements, but this is divine, not arcane
+- Bards passing through may perform, but resident magical entertainment doesn't exist
+
+**On Technology:**
+
+- Agricultural techniques benefit from clerical blessing but remain fundamentally non-magical
+
+**On Entertainment:**
+
+- No magical entertainment exists post-Pact. All forbidden as frivolous
+- Traditional entertainment (music, storytelling, festivals, horse shows, competitions) remains entirely mundane
 
 **How are illegal magicians apprehended and punished?**
 
-_Answer:_
+**Detection:**
+
+- Observation Posts (maintained by wizards from Aelarion) detect large-scale illegal magic
+- Community reporting - neighbors notice unauthorized practice
+- Regular audits of registered practitioners reveal violations
+- Accidental discovery during other investigations
+
+**Apprehension:**
+
+- Minor violations: Local watch can arrest non-resisting violators
+- Moderate violations: Local watch requests assistance from contracted enforcement agencies
+- Severe violations or resistant mages: Enforcement contractors handle entirely
+- Sorcerers in wild magic surge: Specialized containment teams from contractors
+
+**Punishment:**
+
+- Adjudicated by local courts for minor offenses (fines, community service)
+- Tribunal of Balance for serious violations
+- Magical binding performed only by certified contractors
+- Imprisonment in local facilities for non-magical criminals, specialized facilities (outside Lenthir) for dangerous mages
 
 **Is the apprehension of illegal practitioners the responsibility of the magician's guild, or do ordinary law enforcement agencies have to deal with it?**
 
-_Answer:_
+Hybrid system:
+
+**Local Watch Responsibilities:**
+
+- Initial response to reported violations
+- Apprehending cooperative violators
+- Minor cases (unregistered hedge wizard, accidental sorcerer manifestation)
+- Securing scene until contractors arrive for serious cases
+
+**Enforcement Contractors (from Aelarion/Ithilvaeth):**
+
+- Investigating magical crimes
+- Apprehending dangerous or resistant mages
+- Conducting forensic magic
+- Performing magical binding
+- Prosecuting cases before the Tribunal
+- Training local authorities in basic magical threat recognition
+
+**No Guild Exists:** Lenthir has no magician's guild. Too few practitioners and cultural distrust of magical organizations. The contractors function as external guild-equivalents.
+
+**Coordination Issues:** Local watch sometimes delays calling contractors (expensive, admits they can't handle it), or contractors arrive too slowly for urgent situations. This tension is ongoing.
 
 **Is healing usually a magical process?**
 
-_Answer:_
+Mixed approach:
+
+**Common Healing (90% of cases):** Non-magical. Herbalists, midwives, bonesetter, traditional medicine. Most Lenthiri never experience magical healing. Villages without resident clerics rely entirely on mundane methods.
+
+**Magical Healing Used For:**
+
+- Life-threatening injuries beyond mundane medicine
+- Disease outbreaks threatening communities
+- Removing curses or magical afflictions
+- Blessing childbirth in difficult cases
+- Treating injuries at the Graymarch
+
+**Accessibility:**
+
+- Cities and larger towns: May have resident clerics of [[Therion, God of Harvest]], [[Ithara, Healer of Sorrows]], or other healing deities
+- Villages: Must send for traveling cleric or make pilgrimage to nearest temple
+- Cost: Donations expected but clerics won't refuse the destitute
+- Cultural attitude: Magical healing is backup, not first choice
 
 **Is forensic magic possible?**
 
-_Answer:_
+Yes
+
+**Why Rarely Used:**
+
+- Expensive - requires hiring contractors
+- Most crimes mundane and solved through traditional investigation
+- Cultural preference for physical evidence over magical testimony
+- Limited qualified practitioners
+- Time delay waiting for contractors to arrive
 
 **Can forensic magic be used to investigate only certain types of crimes (and if so, which)?**
 
-_Answer:_
+**Authorized Uses:**
+
+- Murder investigations (including Speak with Dead)
+- Magical crimes (obviously)
+- Theft of extremely valuable items (Great Horses, kingdom treasures)
+- Treason and threats to national security
+- Cases where mundane investigation has failed and justice requires magical intervention
+
+**Generally Not Authorized For:**
+
+- Minor theft or property disputes
+- Common assault
+- Civil disputes
+- Cases with sufficient physical evidence
+- Crimes where victim/family cannot afford contractor fees and kingdom won't subsidize
+
+**Approval Required:** Local judges can authorize for serious cases. Tribunal approval needed for necromancy. Marshal of the Graymarch can authorize for military matters.
 
 **Are the results of forensic spells admissible in court as evidence?**
 
-_Answer:_
+Yes, but with significant caveats:
+
+**Admissible:**
+
+- Zone of Truth testimony (divine magic, trusted)
+- Speak with Dead (with Tribunal authorization and proper safeguards)
+- Detect Magic results (objective magical presence)
+- Physical evidence located through divination (the evidence itself is what matters)
+
+**Admissibility Requirements:**
+
+- Must be performed by certified, neutral contractor
+- Proper documentation of spell casting and results
+- Witness testimony describing procedure
+- Judge determines reliability case-by-case
+
+**Limitations:**
+
+- Some rural judges distrust magical evidence entirely
+- Defense can challenge contractor credentials or methods
+- Magical evidence alone rarely sufficient for conviction - must be corroborated
+- Zone of Truth doesn't compel answers, only prevents lies in what is said
+- Speak with Dead limited by what deceased knew and spirit's cooperation
+
+**Cultural Attitudes:** Urban courts more accepting, rural courts skeptical. Magical evidence seen as confirmation rather than foundation of cases.
 
 ---
 
@@ -1104,43 +1277,91 @@ _Answer:_
 
 **How are roads built in this country?**
 
-_Answer:_
+Simple, practical construction suited to plains terrain:
+
+**Major Trade Routes:** Packed earth graded and drained, with gravel surfaces on heavily-trafficked sections. Built wide enough for two wagons to pass. Bridges over rivers constructed by local communities with kingdom coordination. These connect major cities and extend to borders with Vanguard Reach and Ironveil.
+
+**Local Roads:** Dirt tracks worn by regular use. Minimal formal construction. Communities may add gravel or logs over muddy sections but otherwise let natural paths develop between settlements.
+
+**Labor:** Built by local communities using their own labor or tax-labor obligations. Kingdom provides coordination and engineering advice for major routes but not funds or workers.
 
 **What state are the roads in?**
 
-_Answer:_
+Variable by location and season:
+
+**Major Trade Routes:** Good to fair condition. Well-drained, regularly maintained, passable year-round. Spring thaw creates muddy sections but these are anticipated and routes adjusted.
+
+**Local Roads:** Poor to adequate. Dry season they're fine, wet season they become muddy morasses. Winter snow can close roads for weeks. Rural areas accept this as normal.
+
+**Overall Assessment:** Functional for agricultural economy but not impressive. Vanguard Reach and Caernast have better road systems. Adequate for moving grain and horses, which is what matters.
 
 **Who pays for roads?**
 
-_Answer:_
+**Major Trade Routes:** Kingdom pays through general taxation (the small annuity from settlements). This is one of the few centralized infrastructure investments.
+
+**Local Roads:** Each settlement maintains roads within their territory and to neighbors. No external funding. Communities organize road repair as communal labor projects.
+
+**Bridges:** Shared cost between communities on both sides. Kingdom may subsidize strategically important bridges but expects local contribution.
+
+**The Graymarch approaches:** Military budget maintains southern roads for troop movement and supply.
 
 **Who maintains the roads?**
 
-_Answer:_
+**Major Routes:** Herald of the Crown coordinates maintenance schedule. Settlements along routes provide labor proportional to road length in their territory. Kingdom inspectors assess conditions annually.
+
+**Local Roads:** Each settlement responsible for their own. Village councils organize repair parties, usually in spring after thaw damage and autumn before harvest travel.
+
+**Bridges:** Communities that use them. Larger cities may employ bridge-keepers, smaller settlements rotate responsibility.
 
 **Are there good roads? Who builds them?**
 
-_Answer:_
+Major trade routes are good, local roads adequate to poor. Built by local labor coordinated by kingdom for major routes, purely local initiative for minor roads. Ironveil dwarves contracted for technically difficult construction (major bridges). No professional road-building corps exists - it's communal labor.
 
 **Are there tolls?**
 
-_Answer:_
+Very few:
+
+**Generally Free:** Most roads are toll-free. The low-touch monarchy and cultural values favor open movement.
+
+**Rare Exceptions:**  Some major bridges charge small tolls to fund maintenance
+
+**Cultural Attitude:** Tolls viewed with suspicion as money-grubbing. Charging tolls on roads within Lenthir proper would be politically unpopular. Accepted only when maintenance costs are clearly justified.
 
 **Are roads guarded or patrolled?**
 
-_Answer:_
+Minimally:
+
+**Major Trade Routes:** Irregular patrols by Royal Riders or local militia, maybe once per month on important routes. More reactive than preventive - respond to reports of trouble rather than constant presence.
+
+**Southern Roads (near Graymarch):** Regular military patrols due to orc raid threat. Daily patrols within 20 miles of the Graymarch, weekly further north.
+
+**Local Roads:** Unguarded. Villages may send riders to check roads before important travel but no regular patrols.
+
+**Why So Little?:** Banditry rare, population sparse, low-touch government philosophy. Most travel is local and communities know each other. The expense of regular patrols doesn't justify the minimal threat.
+
+**Merchant Caravans:** Larger operations hire their own guards, especially when carrying valuable goods.
 
 **Are there magical means of transportation?**
 
-_Answer:_
+Almost none.
+
+**Practical Reality:** Even emergency teleportation requires hiring contractors from Aelarion, waiting for them to arrive, and justifying the expense. By the time it's arranged, conventional travel is often faster.
+
+**Cultural Attitude:** Using magic to travel seen as lazy, wasteful, and disrespectful to those who built the roads. "If your horse can't get you there, maybe you don't need to go."
 
 **How does magical transportation compare in speed, safety, and expense to non-magical means?**
 
-_Answer:_
+For 99.9% of situations, conventional travel is superior in every practical dimension except raw speed of the magical transition itself.
 
 **Is there a public or private postal system, or does everyone of importance have to send messengers?**
 
-_Answer:_
+**Royal Postal Service:** Exists for kingdom business. The Herald of the Crown maintains postal stations in major cities and along main routes. Royal messengers (certified by Herald) carry official correspondence. Uses combination of mounted riders and Windcaller Hawks for urgent messages.
+
+**Windcaller Hawk Network:** Specially trained hawks can carry small messages between bonded aviaries. Faster than horses for urgent communication. Limited by weight capacity (small scrolls only) and need for established aviary pairs. Primarily used for official kingdom business but wealthy merchants may contract access.
+
+**Private Messengers:** Common people hire traveling merchants, friendly travelers, or pay dedicated messengers for important personal business. No formal system - relies on trust and payment.
+
+**Local Communication:** Most communication happens face-to-face. Villages are small enough that everyone knows everyone. Important news announced by town criers at market days.
 
 **How fast can news get from one point to another?**
 
@@ -1148,19 +1369,70 @@ _Answer:_
 
 **Are there magical means of communication? How common and reliable are they? How expensive?**
 
-_Answer:_
+**Sending Spell:** Available from certified wizards or high-level clerics. Limited to 25 words. Expensive (must hire contractor). Reliable if recipient is known and reachable.
+
+**Usage:** Reserved for true emergencies:
+
+- Notifying monarch of imminent invasion
+- Warning of natural disaster
+- Critical diplomatic crises
+- Medical emergencies requiring specialized healer
+
+**Reliability:** High success rate when properly cast, but recipient must be locatable. Doesn't work across planar boundaries. Can be blocked by anti-magic fields.
+
+**Frequency:** Perhaps a dozen sendings per year kingdom-wide. Not a routine communication method.
+
+**Scrying:** Technically possible but heavily restricted under Pact (invasion of privacy, potentially frivolous). Requires Tribunal authorization except for specific law enforcement purposes.
+
+**Common Assessment:** Magical communication exists in theory but is so expensive and regulated that Lenthir functions as if it doesn't. Windcaller Hawks are the "magical" communication most people know.
 
 **How are books produced?**
 
-_Answer:_
+**Hand-Copied by Scribes:**
+
+- Professional scribes in larger cities and temples
+- Monks at monasteries copy religious texts
+- Scholars copy their own texts or hire scribes
+- Each book individually written, taking weeks to months
+
+**Materials:**
+
+- Parchment (sheepskin) or vellum (calfskin) for quality books
+- Paper (rare, imported) for less important documents
+- Ink made from soot, oak galls, or other natural materials
+- Leather or wooden bindings
 
 **Are books common or are they valuable hand-written objects?**
 
-_Answer:_
+Valuable hand-written objects:
+
+**Cost:** A single book costs equivalent to several months' wages for a farmer. Large volumes can cost as much as a good horse.
+
+**Ownership:**
+
+- **Common people:** Own no books. Can't afford them and most are illiterate anyway
+- **Merchants/Landowners:** Might own 1-5 books (ledgers, agricultural manuals, maybe religious text)
+- **Nobles/Officials:** Small personal libraries of 10-30 books considered impressive
+- **Temples/Monasteries:** Collections of 50-200 books represent centuries of accumulation
+- **Royal Library (capital):** Perhaps 500-1000 volumes, considered treasure of the kingdom
+
+**Common Books:**
+
+- Agricultural manuals (most practical)
+- Religious texts (prayers, rituals, theology)
+- Legal codes and precedents
+- Historical chronicles
+- Herbal and medical texts
+
+**Literacy:** Perhaps 20-30% literacy in cities, under 10% in rural areas. Most learning is oral, apprenticeship-based. Reading is specialized skill.
+
+**Cultural Attitude:** Books are treasured objects, often family heirlooms. Lending books is sign of deep trust. Damaging someone's book is serious offense.
 
 **Is there freedom of the press? If not, who controls or censors it, by what means, and for what purpose?**
 
-_Answer:_
+Most written material is technical (farming guides), religious (devotional texts), or administrative (tax records, legal codes). Political or controversial writing rare simply because few write and fewer can read. The low-touch monarchy doesn't care enough about controlling thought to actively censor, and the slow pace of book production makes any controversial ideas spread too slowly to worry about.
+
+**Town Criers/Oral News:** No restriction on what can be spoken in public squares, though seditious speech could bring legal trouble. Most news spreads orally and authorities only intervene if someone incites violence or rebellion.
 
 ---
 
